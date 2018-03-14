@@ -20,7 +20,7 @@ To run PS-MCL, you need to do the followings:
 
 ## Command
 
-- ./PS-MCL [INPUT (Graph File Path)] [Output Directory] [CoarseMode] [Coarse Level] [Balance Factor] [MCL Mode] [Number of Thread] [epsilon] [rand_seed]
+- ./PS-MCL [INPUT (Graph File Path)] [Output Directory] [CoarseMode] [Coarse Level] [Balance Factor] [MCL Mode] [Number of Thread] [epsilon] [rand_seed] [skip_rate]
 
 ### Arguments
 
@@ -35,14 +35,14 @@ You should provide following arguments.
 	(g) Number of Thread	: the number of threads to be used
 	(h) epsilon		: run until the error is under epsilon
 	(i) rand_seed	: random seed number
-	(i) skip rate	: Float number from 0~1 when using "-sc" mode. 
+	(i) skip_rate	: Float number from 0~1 when using "-sc" mode. 
 
 ## Measurement
 
 You can evaluate your clustering result with reference clusters. Each row of reference cluster matches to one cluster. For more example, check dataset/reference/human. This also requires node mapping file. 
 
 Command
-- ./PS-MCL [INPUT (Graph File Path)] [Output Directory] [CoarseMode] [Coarse Level] [Balance Factor] [MCL Mode] [Number of Thread] [epsilon] [rand_seed] [cluster file] [node map]
+- ./PS-MCL [INPUT (Graph File Path)] [Output Directory] [CoarseMode] [Coarse Level] [Balance Factor] [MCL Mode] [Number of Thread] [epsilon] [rand_seed] [skip_rate] **[cluster file] [node map]**
 
 ## Demo Run
 Run **make** in the source folder. The MCL will start a demo run PS-MCL for "dataset/biogrid/homo/homo2-name" with 3 coarsening step. 

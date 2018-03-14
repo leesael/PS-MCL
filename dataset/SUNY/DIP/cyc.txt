@@ -1,0 +1,1920 @@
+BET3	TRAPP complex
+BET5	TRAPP complex
+GSG1	TRAPP complex
+KRE11	TRAPP complex
+TRS120	TRAPP complex
+TRS130	TRAPP complex
+TRS20	TRAPP complex
+TRS23	TRAPP complex
+TRS31	TRAPP complex
+TRS33	TRAPP complex
+HDA1	histone deacetylase complex
+HDA2	histone deacetylase complex
+HDA3	histone deacetylase complex
+ADA2	Ada2p/Gcn5p/Ada3 transcription activator complex
+AHC1	Ada2p/Gcn5p/Ada3 transcription activator complex
+GCN5	Ada2p/Gcn5p/Ada3 transcription activator complex
+HFI1	Ada2p/Gcn5p/Ada3 transcription activator complex
+NGG1	Ada2p/Gcn5p/Ada3 transcription activator complex
+DLS1	chromatin accessibility complex
+DPB4	chromatin accessibility complex
+ISW2	chromatin accessibility complex
+ITC1	chromatin accessibility complex
+MST27	Mst27p/Mst28p complex
+MST28	Mst27p/Mst28p complex
+CAM1	eEF1
+EFB1	eEF1
+TEF1	eEF1
+TEF2	eEF1
+TEF4	eEF1
+CBF1	Cbf1p/Met4p/Met28p complex
+MET28	Cbf1p/Met4p/Met28p complex
+MET4	Cbf1p/Met4p/Met28p complex
+PRP11	Prp9p/Prp11p/Prp21p complex(SF3a complex)
+PRP21	Prp9p/Prp11p/Prp21p complex(SF3a complex)
+PRP9	Prp9p/Prp11p/Prp21p complex(SF3a complex)
+MET28	Met4p/Met28p/Met31p complex
+MET31	Met4p/Met28p/Met31p complex
+MET4	Met4p/Met28p/Met31p complex
+EXO70	Exocyst complex
+EXO84	Exocyst complex
+SEC10	Exocyst complex
+SEC15	Exocyst complex
+SEC3	Exocyst complex
+SEC5	Exocyst complex
+SEC6	Exocyst complex
+SEC8	Exocyst complex
+SBH2	Ssh1p translocon complex
+SSH1	Ssh1p translocon complex
+SSS1	Ssh1p translocon complex
+KEL1	Kel1p/Kel2p complex
+KEL2	Kel1p/Kel2p complex
+AIR2	TRAMP complex (Air2p)
+MTR4	TRAMP complex (Air2p)
+PAP2	TRAMP complex (Air2p)
+BCY1	cAMP-dependent protein kinase
+TPK1	cAMP-dependent protein kinase
+TPK2	cAMP-dependent protein kinase
+TPK3	cAMP-dependent protein kinase
+MSS1	Mto1p/Mss1p complex
+MTO1	Mto1p/Mss1p complex
+BUB1	Bub1p/Bub3p complex
+BUB3	Bub1p/Bub3p complex
+MKS1	Mks1p/Rtg2p complex
+RTG2	Mks1p/Rtg2p complex
+CCZ1	Mon1p/Ccz1p complex
+MON1	Mon1p/Ccz1p complex
+ARC15	Arp2/3 protein complex
+ARC18	Arp2/3 protein complex
+ARC19	Arp2/3 protein complex
+ARC35	Arp2/3 protein complex
+ARC40	Arp2/3 protein complex
+ARP2	Arp2/3 protein complex
+ARP3	Arp2/3 protein complex
+PSF1	GINS complex
+PSF2	GINS complex
+PSF3	GINS complex
+SLD5	GINS complex
+MSH2	MSH2p/MSH6p complex
+MSH6	MSH2p/MSH6p complex
+RNH201	ribonuclease H2 complex
+RNH202	ribonuclease H2 complex
+RNH203	ribonuclease H2 complex
+GIP1	Gip1p/Glc7p complex
+GLC7	Gip1p/Glc7p complex
+CSG2	Sur1p/Csg2p complex
+SUR1	Sur1p/Csg2p complex
+PRE1	20S proteasome
+PRE10	20S proteasome
+PRE2	20S proteasome
+PRE3	20S proteasome
+PRE4	20S proteasome
+PRE5	20S proteasome
+PRE6	20S proteasome
+PRE7	20S proteasome
+PRE8	20S proteasome
+PRE9	20S proteasome
+PUP1	20S proteasome
+PUP2	20S proteasome
+PUP3	20S proteasome
+SCL1	20S proteasome
+DCS1	Dcs1p/Dcs2 heterodimer
+DCS2	Dcs1p/Dcs2 heterodimer
+RPB10	DNA-directed RNA polymerase II complex
+RPB11	DNA-directed RNA polymerase II complex
+RPB2	DNA-directed RNA polymerase II complex
+RPB3	DNA-directed RNA polymerase II complex
+RPB4	DNA-directed RNA polymerase II complex
+RPB5	DNA-directed RNA polymerase II complex
+RPB7	DNA-directed RNA polymerase II complex
+RPB8	DNA-directed RNA polymerase II complex
+RPB9	DNA-directed RNA polymerase II complex
+RPC10	DNA-directed RNA polymerase II complex
+RPO21	DNA-directed RNA polymerase II complex
+RPO26	DNA-directed RNA polymerase II complex
+DDC1	Rad17p/Ddc1p/Mec3p complex
+MEC3	Rad17p/Ddc1p/Mec3p complex
+RAD17	Rad17p/Ddc1p/Mec3p complex
+TFC1	transcription factor TFIIIC complex
+TFC3	transcription factor TFIIIC complex
+TFC4	transcription factor TFIIIC complex
+TFC6	transcription factor TFIIIC complex
+TFC7	transcription factor TFIIIC complex
+TFC8	transcription factor TFIIIC complex
+HIR1	HIR complex
+HIR2	HIR complex
+HIR3	HIR complex
+HPC2	HIR complex
+ABF1	nucleotide-excision repair factor 4 complex
+ELC1	nucleotide-excision repair factor 4 complex
+RAD16	nucleotide-excision repair factor 4 complex
+RAD7	nucleotide-excision repair factor 4 complex
+EST1	Telomerase
+EST2	Telomerase
+EST3	Telomerase
+TRM11	adoMet-dependent tRNA methyltransferase (Mtase) Complex
+TRM112	adoMet-dependent tRNA methyltransferase (Mtase) Complex
+CYC8	Sko1p/Cyc8p/Tup1 repressor complex
+SKO1	Sko1p/Cyc8p/Tup1 repressor complex
+TUP1	Sko1p/Cyc8p/Tup1 repressor complex
+NUP84	Nup84p complex
+NUP85	Nup84p complex
+NUP120	Nup84p complex
+NUP145	Nup84p complex
+SEC13	Nup84p complex
+SEH1	Nup84p complex
+ORC1	Origin recognition complex
+ORC2	Origin recognition complex
+ORC3	Origin recognition complex
+ORC4	Origin recognition complex
+ORC5	Origin recognition complex
+ORC6	Origin recognition complex
+MDM10	mitochondrial sorting and assembly machinery complex
+SAM35	mitochondrial sorting and assembly machinery complex
+SAM37	mitochondrial sorting and assembly machinery complex
+SAM50	mitochondrial sorting and assembly machinery complex
+MLH1	Mlh1p/Mlh3p complex
+MLH3	Mlh1p/Mlh3p complex
+CUP5	"H+-transporting ATPase, vacuolar"
+PPA1	"H+-transporting ATPase, vacuolar"
+TFP1	"H+-transporting ATPase, vacuolar"
+TFP3	"H+-transporting ATPase, vacuolar"
+VMA10	"H+-transporting ATPase, vacuolar"
+VMA13	"H+-transporting ATPase, vacuolar"
+VMA2	"H+-transporting ATPase, vacuolar"
+VMA4	"H+-transporting ATPase, vacuolar"
+VMA5	"H+-transporting ATPase, vacuolar"
+VMA6	"H+-transporting ATPase, vacuolar"
+VMA7	"H+-transporting ATPase, vacuolar"
+VMA8	"H+-transporting ATPase, vacuolar"
+VPH1	"H+-transporting ATPase, vacuolar"
+CDC28	Cdc28p/Clb5p complex
+CLB5	Cdc28p/Clb5p complex
+POP1	nucleolar ribonuclease P complex
+POP3	nucleolar ribonuclease P complex
+POP4	nucleolar ribonuclease P complex
+POP5	nucleolar ribonuclease P complex
+POP6	nucleolar ribonuclease P complex
+POP7	nucleolar ribonuclease P complex
+POP8	nucleolar ribonuclease P complex
+RPR2	nucleolar ribonuclease P complex
+RPP1	nucleolar ribonuclease P complex
+MAS1	mitochondrial processing peptidase complex
+MAS2	mitochondrial processing peptidase complex
+VPS51	GARP complex
+VPS52	GARP complex
+VPS53	GARP complex
+VPS54	GARP complex
+DBF2	Mob1p/Dbf2p complex
+MOB1	Mob1p/Dbf2p complex
+RAD24	DNA replication factor C complex (Rad24p)
+RFC2	DNA replication factor C complex (Rad24p)
+RFC3	DNA replication factor C complex (Rad24p)
+RFC4	DNA replication factor C complex (Rad24p)
+RFC5	DNA replication factor C complex (Rad24p)
+ELA1	Ela1p/Elc1p complex
+ELC1	Ela1p/Elc1p complex
+SNF8	ESCRT II complex
+VPS25	ESCRT II complex
+VPS36	ESCRT II complex
+HAP2	CCAAT-binding factor complex
+HAP3	CCAAT-binding factor complex
+HAP4	CCAAT-binding factor complex
+HAP5	CCAAT-binding factor complex
+SAP190	Sap190p/Sit4p complex
+SIT4	Sap190p/Sit4p complex
+BUR6	NC2 complex
+NCB2	NC2 complex
+ASF1	Rad53p/Asf1p complex
+RAD53	Rad53p/Asf1p complex
+FRS1	Phenylalaninine-tRNA-ligase
+FRS2	Phenylalaninine-tRNA-ligase
+ERF2	palmitoyltransferase complex
+SHR5	palmitoyltransferase complex
+BUD13	RES complex
+PML1	RES complex
+IST3	RES complex
+POP1	ribonuclease MRP complex
+POP3	ribonuclease MRP complex
+POP4	ribonuclease MRP complex
+POP5	ribonuclease MRP complex
+POP6	ribonuclease MRP complex
+POP7	ribonuclease MRP complex
+POP8	ribonuclease MRP complex
+RMP1	ribonuclease MRP complex
+RPP1	ribonuclease MRP complex
+SNM1	ribonuclease MRP complex
+MEI5	Mei5p/Sae3p complex
+SAE3	Mei5p/Sae3p complex
+INH1	mitochondrial ATPase inhibitor complex
+STF1	mitochondrial ATPase inhibitor complex
+STF2	mitochondrial ATPase inhibitor complex
+SEN15	tRNA-intron endonuclease complex
+SEN2	tRNA-intron endonuclease complex
+SEN34	tRNA-intron endonuclease complex
+SEN54	tRNA-intron endonuclease complex
+RGP1	guanyl-nucleotide exchange factor complex
+RIC1	guanyl-nucleotide exchange factor complex
+NOP58	box C/D snoRNP complex
+NOP1	box C/D snoRNP complex
+SNU13	box C/D snoRNP complex
+SIK1	box C/D snoRNP complex
+CBC2	commitment complex
+MSL5	commitment complex
+MUD2	commitment complex
+STO1	commitment complex
+SMB1	commitment complex
+SMD1	commitment complex
+SMD2	commitment complex
+SMD3	commitment complex
+SME1	commitment complex
+SMX2	commitment complex
+SMX3	commitment complex
+LUC7	commitment complex
+MUD1	commitment complex
+NAM8	commitment complex
+PRP39	commitment complex
+PRP40	commitment complex
+PRP42	commitment complex
+SNP1	commitment complex
+SNU56	commitment complex
+SNU71	commitment complex
+YHC1	commitment complex
+NOC4	Noc4p/Nop14p complex
+NOP14	Noc4p/Nop14p complex
+DIG1	Dig1p/Ste12p/Dig2p complex
+DIG2	Dig1p/Ste12p/Dig2p complex
+STE12	Dig1p/Ste12p/Dig2p complex
+SLX1	Slx1p/Slx4p complex
+SLX4	Slx1p/Slx4p complex
+LSM2	U6 snRNP complex
+LSM3	U6 snRNP complex
+LSM4	U6 snRNP complex
+LSM5	U6 snRNP complex
+LSM6	U6 snRNP complex
+LSM7	U6 snRNP complex
+LSM8	U6 snRNP complex
+PRP24	U6 snRNP complex
+PPH3	histone H2A phosphatase complex
+PSY2	histone H2A phosphatase complex
+PSY4	histone H2A phosphatase complex
+MDM10	Mdm12p/Mmm1p/Mdm10p complex
+MDM12	Mdm12p/Mmm1p/Mdm10p complex
+MMM1	Mdm12p/Mmm1p/Mdm10p complex
+TUB1	Tubulins
+TUB2	Tubulins
+BUB2	Bub2p/Bfa1p complex
+BFA1	Bub2p/Bfa1p complex
+POL1	alpha DNA polymerase:primase complex
+POL12	alpha DNA polymerase:primase complex
+PRI1	alpha DNA polymerase:primase complex
+PRI2	alpha DNA polymerase:primase complex
+CFT1	mRNA cleavage and polyadenylation specificity factor complex
+CFT2	mRNA cleavage and polyadenylation specificity factor complex
+FIP1	mRNA cleavage and polyadenylation specificity factor complex
+GLC7	mRNA cleavage and polyadenylation specificity factor complex
+MPE1	mRNA cleavage and polyadenylation specificity factor complex
+PAP1	mRNA cleavage and polyadenylation specificity factor complex
+PFS2	mRNA cleavage and polyadenylation specificity factor complex
+PTA1	mRNA cleavage and polyadenylation specificity factor complex
+PTI1	mRNA cleavage and polyadenylation specificity factor complex
+REF2	mRNA cleavage and polyadenylation specificity factor complex
+SSU72	mRNA cleavage and polyadenylation specificity factor complex
+SWD2	mRNA cleavage and polyadenylation specificity factor complex
+SYC1	mRNA cleavage and polyadenylation specificity factor complex
+YSH1	mRNA cleavage and polyadenylation specificity factor complex
+YTH1	mRNA cleavage and polyadenylation specificity factor complex
+IME1	Ume6p/Ime1p complex
+UME6	Ume6p/Ime1p complex
+SIR2	chromatin silencing complex
+SIR3	chromatin silencing complex
+SIR4	chromatin silencing complex
+MRS11	mitochondrial intermembrane space protein transporter complex
+TIM9	mitochondrial intermembrane space protein transporter complex
+BUB3	mitotic checkpoint complex
+CDC20	mitotic checkpoint complex
+MAD2	mitotic checkpoint complex
+MAD3	mitotic checkpoint complex
+PXA1	Pxa1p/Pxa2p complex
+PXA2	Pxa1p/Pxa2p complex
+SIP1	Snf1p/Snf4p/Sip1p complex
+SNF1	Snf1p/Snf4p/Sip1p complex
+SNF4	Snf1p/Snf4p/Sip1p complex
+DNL4	DNA ligase IV
+LIF1	DNA ligase IV
+PMT3	Protein O-mannosyltransferase(Pmt3p/Pmt5p)
+PMT5	Protein O-mannosyltransferase(Pmt3p/Pmt5p)
+SEC9	SNARE complex
+SSO1	SNARE complex
+SNC1	SNARE complex
+TPS1	"alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)"
+TPS2	"alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)"
+TPS3	"alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)"
+TSL1	"alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)"
+ACT1	Ino80p complex
+ARP4	Ino80p complex
+ARP5	Ino80p complex
+ARP8	Ino80p complex
+IES1	Ino80p complex
+IES3	Ino80p complex
+IES4	Ino80p complex
+INO80	Ino80p complex
+NHP10	Ino80p complex
+RVB1	Ino80p complex
+RVB2	Ino80p complex
+TAF14	Ino80p complex
+PSR1	Psr1p/Whi2p complex
+WHI2	Psr1p/Whi2p complex
+SSN3	Kornberg's mediator (SRB) complex
+SSN8	Kornberg's mediator (SRB) complex
+SRB8	Kornberg's mediator (SRB) complex
+SSN2	Kornberg's mediator (SRB) complex
+CSE2	Kornberg's mediator (SRB) complex
+GAL11	Kornberg's mediator (SRB) complex
+MED1	Kornberg's mediator (SRB) complex
+MED11	Kornberg's mediator (SRB) complex
+MED2	Kornberg's mediator (SRB) complex
+MED4	Kornberg's mediator (SRB) complex
+MED6	Kornberg's mediator (SRB) complex
+MED7	Kornberg's mediator (SRB) complex
+MED8	Kornberg's mediator (SRB) complex
+NUT1	Kornberg's mediator (SRB) complex
+NUT2	Kornberg's mediator (SRB) complex
+PGD1	Kornberg's mediator (SRB) complex
+RGR1	Kornberg's mediator (SRB) complex
+ROX3	Kornberg's mediator (SRB) complex
+SIN4	Kornberg's mediator (SRB) complex
+SRB2	Kornberg's mediator (SRB) complex
+SRB4	Kornberg's mediator (SRB) complex
+SRB5	Kornberg's mediator (SRB) complex
+SRB6	Kornberg's mediator (SRB) complex
+SRB7	Kornberg's mediator (SRB) complex
+SOH1	Kornberg's mediator (SRB) complex
+VTC1	VTC heterotetrameric complex
+VTC2	VTC heterotetrameric complex
+VTC3	VTC heterotetrameric complex
+VTC4	VTC heterotetrameric complex
+OST1	oligosaccharyl transferase complex
+OST2	oligosaccharyl transferase complex
+OST3	oligosaccharyl transferase complex
+OST4	oligosaccharyl transferase complex
+OST5	oligosaccharyl transferase complex
+OST6	oligosaccharyl transferase complex
+STT3	oligosaccharyl transferase complex
+SWP1	oligosaccharyl transferase complex
+WBP1	oligosaccharyl transferase complex
+BUR2	Sgv1p/Bur2p complex
+SGV1	Sgv1p/Bur2p complex
+KOG1	TORC 1 complex
+LST8	TORC 1 complex
+TCO89	TORC 1 complex
+TOR1	TORC 1 complex
+ARP7	SWI/SNF complex
+ARP9	SWI/SNF complex
+RTT102	SWI/SNF complex
+SNF11	SWI/SNF complex
+SNF12	SWI/SNF complex
+SNF2	SWI/SNF complex
+SNF5	SWI/SNF complex
+SNF6	SWI/SNF complex
+SWI1	SWI/SNF complex
+SWI3	SWI/SNF complex
+TAF14	SWI/SNF complex
+SWP82	SWI/SNF complex
+CDC34	SCF-CDC4 complex
+CDC4	SCF-CDC4 complex
+CDC53	SCF-CDC4 complex
+SGT1	SCF-CDC4 complex
+SKP1	SCF-CDC4 complex
+ASM4	karyopherin docking subcomplex of the Nuclear Pore Complex (NPC)
+NUP170	karyopherin docking subcomplex of the Nuclear Pore Complex (NPC)
+NUP53	karyopherin docking subcomplex of the Nuclear Pore Complex (NPC)
+POL3	DNA polymerase delta complex
+POL31	DNA polymerase delta complex
+POL32	DNA polymerase delta complex
+CDC33	eIF4F
+TIF1	eIF4F
+TIF4631	eIF4F
+SLX5	Slx5p/Slx8p complex
+SLX8	Slx5p/Slx8p complex
+DPB2	DNA polymerase epsilon complex
+DPB3	DNA polymerase epsilon complex
+DPB4	DNA polymerase epsilon complex
+POL2	DNA polymerase epsilon complex
+CLU1	eIF3
+HCR1	eIF3
+NIP1	eIF3
+PRT1	eIF3
+RPG1	eIF3
+TIF34	eIF3
+TIF35	eIF3
+BTT1	nascent polypeptide-associated complex
+EGD1	nascent polypeptide-associated complex
+EGD2	nascent polypeptide-associated complex
+PAN2	PAN complex
+PAN3	PAN complex
+APL2	AP-1 adaptor complex
+APL4	AP-1 adaptor complex
+APM1	AP-1 adaptor complex
+APM2	AP-1 adaptor complex
+APS1	AP-1 adaptor complex
+YKU70	Ku complex
+YKU80	Ku complex
+SAC3	Sac3p/Thp1p complex
+THP1	Sac3p/Thp1p complex
+GAL4	GAL4p/GAL80p complex
+GAL80	GAL4p/GAL80p complex
+HOP1	Synaptonemal complex (SC)
+RED1	Synaptonemal complex (SC)
+ZIP1	Synaptonemal complex (SC)
+ZIP2	Synaptonemal complex (SC)
+MAK10	NatC complex
+MAK3	NatC complex
+MAK31	NatC complex
+BUL1	Rsp5p/Bul1 ubiquitin ligase complex
+RSP5	Rsp5p/Bul1 ubiquitin ligase complex
+DCP1	Decapping Enzyme Complex
+DCP2	Decapping Enzyme Complex
+ARD1	NatA complex
+NAT1	NatA complex
+NAT5	NatA complex
+ELG1	DNA replication factor C complex (Elg1p)
+RFC2	DNA replication factor C complex (Elg1p)
+RFC3	DNA replication factor C complex (Elg1p)
+RFC4	DNA replication factor C complex (Elg1p)
+RFC5	DNA replication factor C complex (Elg1p)
+CAC2	chromatin assembly complex
+MSI1	chromatin assembly complex
+RLF2	chromatin assembly complex
+EMP24	COPII
+ERP1	COPII
+ERP2	COPII
+ERV25	COPII
+ERV46	COPII
+SAR1	COPII
+SEC13	COPII
+SEC16	COPII
+SEC23	COPII
+SEC24	COPII
+SEC31	COPII
+SEC4	Sro1p/Sec4p/Sec9p complex
+SEC9	Sro1p/Sec4p/Sec9p complex
+SRO7	Sro1p/Sec4p/Sec9p complex
+MBP1	MBF complex
+SWI6	MBF complex
+CDC53	nuclear ubiquitin ligase complex
+GRR1	nuclear ubiquitin ligase complex
+HRT1	nuclear ubiquitin ligase complex
+SKP1	nuclear ubiquitin ligase complex
+MRS5	mitochondrial inner membrane protein insertion complex
+TIM18	mitochondrial inner membrane protein insertion complex
+TIM22	mitochondrial inner membrane protein insertion complex
+TIM54	mitochondrial inner membrane protein insertion complex
+GCN1	Gcn1p/Gcn20p complex
+GCN20	Gcn1p/Gcn20p complex
+PEP8	retromer complex
+VPS17	retromer complex
+VPS29	retromer complex
+VPS35	retromer complex
+VPS5	retromer complex
+COG1	Golgi transport complex
+COG2	Golgi transport complex
+COG3	Golgi transport complex
+COG4	Golgi transport complex
+COG5	Golgi transport complex
+COG6	Golgi transport complex
+COG7	Golgi transport complex
+COG8	Golgi transport complex
+ESP1	Esp1p/Pds1p complex
+PDS1	Esp1p/Pds1p complex
+KEL2	Kel1p/Kel2p/Lte1p complex
+KEL1	Kel1p/Kel2p/Lte1p complex
+LTE1	Kel1p/Kel2p/Lte1p complex
+HHF1	Nucleosomal protein complex
+HHF2	Nucleosomal protein complex
+HHT1	Nucleosomal protein complex
+HHT2	Nucleosomal protein complex
+HTA1	Nucleosomal protein complex
+HTA2	Nucleosomal protein complex
+HTB1	Nucleosomal protein complex
+HTB2	Nucleosomal protein complex
+GET1	GET complex
+GET2	GET complex
+GET3	GET complex
+CDC28	Cdc28p/Cln2p complex
+CLN2	Cdc28p/Cln2p complex
+RPA12	DNA-directed RNA polymerase I complex
+RPA135	DNA-directed RNA polymerase I complex
+RPA14	DNA-directed RNA polymerase I complex
+RPA190	DNA-directed RNA polymerase I complex
+RPA34	DNA-directed RNA polymerase I complex
+RPA43	DNA-directed RNA polymerase I complex
+RPA49	DNA-directed RNA polymerase I complex
+RPB10	DNA-directed RNA polymerase I complex
+RPB5	DNA-directed RNA polymerase I complex
+RPB8	DNA-directed RNA polymerase I complex
+RPC10	DNA-directed RNA polymerase I complex
+RPC19	DNA-directed RNA polymerase I complex
+RPC40	DNA-directed RNA polymerase I complex
+RPO26	DNA-directed RNA polymerase I complex
+OAF1	OAF complex
+PIP2	OAF complex
+ATP1	F0/F1 ATP synthase (complex V)
+ATP14	F0/F1 ATP synthase (complex V)
+ATP15	F0/F1 ATP synthase (complex V)
+ATP16	F0/F1 ATP synthase (complex V)
+ATP17	F0/F1 ATP synthase (complex V)
+ATP18	F0/F1 ATP synthase (complex V)
+ATP19	F0/F1 ATP synthase (complex V)
+ATP2	F0/F1 ATP synthase (complex V)
+ATP20	F0/F1 ATP synthase (complex V)
+ATP3	F0/F1 ATP synthase (complex V)
+ATP4	F0/F1 ATP synthase (complex V)
+ATP5	F0/F1 ATP synthase (complex V)
+ATP6	F0/F1 ATP synthase (complex V)
+ATP7	F0/F1 ATP synthase (complex V)
+ATP8	F0/F1 ATP synthase (complex V)
+INH1	F0/F1 ATP synthase (complex V)
+OLI1	F0/F1 ATP synthase (complex V)
+TIM11	F0/F1 ATP synthase (complex V)
+IMG1	mitochondrial ribosomal large subunit
+IMG2	mitochondrial ribosomal large subunit
+MNP1	mitochondrial ribosomal large subunit
+MRP20	mitochondrial ribosomal large subunit
+MRP49	mitochondrial ribosomal large subunit
+MRP7	mitochondrial ribosomal large subunit
+MRPL1	mitochondrial ribosomal large subunit
+MRPL10	mitochondrial ribosomal large subunit
+MRPL11	mitochondrial ribosomal large subunit
+MRPL13	mitochondrial ribosomal large subunit
+MRPL15	mitochondrial ribosomal large subunit
+MRPL16	mitochondrial ribosomal large subunit
+MRPL17	mitochondrial ribosomal large subunit
+MRPL19	mitochondrial ribosomal large subunit
+MRPL20	mitochondrial ribosomal large subunit
+MRPL22	mitochondrial ribosomal large subunit
+MRPL23	mitochondrial ribosomal large subunit
+MRPL24	mitochondrial ribosomal large subunit
+MRPL25	mitochondrial ribosomal large subunit
+MRPL27	mitochondrial ribosomal large subunit
+MRPL28	mitochondrial ribosomal large subunit
+MRPL3	mitochondrial ribosomal large subunit
+MRPL31	mitochondrial ribosomal large subunit
+MRPL32	mitochondrial ribosomal large subunit
+MRPL33	mitochondrial ribosomal large subunit
+MRPL35	mitochondrial ribosomal large subunit
+MRPL36	mitochondrial ribosomal large subunit
+MRPL37	mitochondrial ribosomal large subunit
+MRPL38	mitochondrial ribosomal large subunit
+MRPL39	mitochondrial ribosomal large subunit
+MRPL4	mitochondrial ribosomal large subunit
+MRPL40	mitochondrial ribosomal large subunit
+MRPL44	mitochondrial ribosomal large subunit
+MRPL49	mitochondrial ribosomal large subunit
+MRPL50	mitochondrial ribosomal large subunit
+MRPL51	mitochondrial ribosomal large subunit
+MRPL6	mitochondrial ribosomal large subunit
+MRPL7	mitochondrial ribosomal large subunit
+MRPL8	mitochondrial ribosomal large subunit
+MRPL9	mitochondrial ribosomal large subunit
+RML2	mitochondrial ribosomal large subunit
+YDR115W	mitochondrial ribosomal large subunit
+YML6	mitochondrial ribosomal large subunit
+YPL183W-A	mitochondrial ribosomal large subunit
+VMA22	ER V-ATPase assembly complex
+VPH2	ER V-ATPase assembly complex
+REG2	Reg2p/Glc7p complex
+GLC7	Reg2p/Glc7p complex
+SMB1	U5 snRNP complex
+SMD1	U5 snRNP complex
+SMD2	U5 snRNP complex
+SMD3	U5 snRNP complex
+SME1	U5 snRNP complex
+SMX2	U5 snRNP complex
+SMX3	U5 snRNP complex
+SNU114	U5 snRNP complex
+AAR2	U5 snRNP complex
+BRR2	U5 snRNP complex
+PRP8	U5 snRNP complex
+PRP28	U5 snRNP complex
+LIN1	U5 snRNP complex
+DIB1	U5 snRNP complex
+RAD18	Rad6p/Rad18p complex
+RAD6	Rad6p/Rad18p complex
+MMS2	ubiquitin conjugating enzyme complex
+UBC13	ubiquitin conjugating enzyme complex
+RVS161	Rvs161p/Rvs167p complex
+RVS167	Rvs161p/Rvs167p complex
+SEC65	Signal recognition particle (SRP)
+SRP14	Signal recognition particle (SRP)
+SRP21	Signal recognition particle (SRP)
+SRP54	Signal recognition particle (SRP)
+SRP68	Signal recognition particle (SRP)
+SRP72	Signal recognition particle (SRP)
+ARG80	ARGR complex
+ARG81	ARGR complex
+ARG82	ARGR complex
+MCM1	ARGR complex
+HOP2	Hop2p/Mnd1p complex
+MND1	Hop2p/Mnd1p complex
+LSP1	Eisosome
+PIL1	Eisosome
+CCT2	chaperonin-containing T-complex
+CCT3	chaperonin-containing T-complex
+CCT4	chaperonin-containing T-complex
+CCT5	chaperonin-containing T-complex
+CCT6	chaperonin-containing T-complex
+CCT7	chaperonin-containing T-complex
+CCT8	chaperonin-containing T-complex
+TCP1	chaperonin-containing T-complex
+HPR1	THO complex
+MFT1	THO complex
+RLR1	THO complex
+THP2	THO complex
+SCC2	cohesin loading factor complex
+SCC4	cohesin loading factor complex
+PCL8	Pho85p/Pcl8p complex
+PHO85	Pho85p/Pcl8p complex
+DYN1	cytoplasmic dynein complex
+DYN2	cytoplasmic dynein complex
+DYN3	cytoplasmic dynein complex
+PAC11	cytoplasmic dynein complex
+ALG13	UDP-N-acetylglucosamine transferase complex
+ALG14	UDP-N-acetylglucosamine transferase complex
+SKI2	Ski Complex
+SKI3	Ski Complex
+SKI8	Ski Complex
+TAF14	transcription factor TFIIF complex
+TFG1	transcription factor TFIIF complex
+TFG2	transcription factor TFIIF complex
+RAV1	RAVE complex
+RAV2	RAVE complex
+SKP1	RAVE complex
+SEC62	Sec62p/Sec63p complex
+SEC63	Sec62p/Sec63p complex
+SEC66	Sec62p/Sec63p complex
+SEC72	Sec62p/Sec63p complex
+ELP2	Elongator complex
+ELP3	Elongator complex
+ELP4	Elongator complex
+ELP6	Elongator complex
+IKI1	Elongator complex
+IKI3	Elongator complex
+EAF6	NuA3 histone acetyltransferase complex
+SAS3	NuA3 histone acetyltransferase complex
+TAF14	NuA3 histone acetyltransferase complex
+YNG1	NuA3 histone acetyltransferase complex
+NTO1	NuA3 histone acetyltransferase complex
+ATG14	phosphatidylinositol (PtdIns) 3-kinase complex (functions in autophagy)
+VPS15	phosphatidylinositol (PtdIns) 3-kinase complex (functions in autophagy)
+VPS30	phosphatidylinositol (PtdIns) 3-kinase complex (functions in autophagy)
+VPS34	phosphatidylinositol (PtdIns) 3-kinase complex (functions in autophagy)
+GCD11	eIF2
+SUI2	eIF2
+SUI3	eIF2
+TIM13	Tim8p/Tim13p complex
+TIM8	Tim8p/Tim13p complex
+RFC1	DNA replication factor C complex (Rcf1p)
+RFC2	DNA replication factor C complex (Rcf1p)
+RFC3	DNA replication factor C complex (Rcf1p)
+RFC4	DNA replication factor C complex (Rcf1p)
+RFC5	DNA replication factor C complex (Rcf1p)
+KGD1	mitochondrial oxoglutarate dehydrogenase complex
+KGD2	mitochondrial oxoglutarate dehydrogenase complex
+LPD1	mitochondrial oxoglutarate dehydrogenase complex
+AME1	COMA complex
+CTF19	COMA complex
+MCM21	COMA complex
+OKP1	COMA complex
+MDM20	NatB complex
+NAT3	NatB complex
+CMD1	SPB components
+CNM67	SPB components
+NUD1	SPB components
+SPC110	SPB components
+SPC29	SPB components
+SPC42	SPB components
+SPC72	SPB components
+USA1	ubiquitin ligase ERAD-L complex
+DER1	ubiquitin ligase ERAD-L complex
+YOS9	ubiquitin ligase ERAD-L complex
+HRD1	ubiquitin ligase ERAD-L complex
+HRD3	ubiquitin ligase ERAD-L complex
+MVB12	ESCRT I complex
+SRN2	ESCRT I complex
+STP22	ESCRT I complex
+VPS28	ESCRT I complex
+HAT1	HAT-B complex
+HAT2	HAT-B complex
+HIF1	HAT-B complex
+CYR1	adenylyl cyclase complex
+SRV2	adenylyl cyclase complex
+PEX10	RING finger peroxin complex
+PEX12	RING finger peroxin complex
+PEX2	RING finger peroxin complex
+ILV2	acetolactate synthase complex
+ILV6	acetolactate synthase complex
+PHB1	prohibitin complex
+PHB2	prohibitin complex
+HSE1	Hse1p/Vps27p complex
+VPS27	Hse1p/Vps27p complex
+CDC55	protein phosphatase type 2A complex (Cdc55p)
+PPH21	protein phosphatase type 2A complex (Cdc55p)
+TPD3	protein phosphatase type 2A complex (Cdc55p)
+COQ3	Q-biosynthetic Coq polypeptide complex
+COQ4	Q-biosynthetic Coq polypeptide complex
+CDC28	Cdc28p/Clb1p complex
+CLB1	Cdc28p/Clb1p complex
+BRR2	U4/U6 x U5 tri-snRNP complex
+DIB1	U4/U6 x U5 tri-snRNP complex
+LSM2	U4/U6 x U5 tri-snRNP complex
+LSM3	U4/U6 x U5 tri-snRNP complex
+LSM4	U4/U6 x U5 tri-snRNP complex
+LSM5	U4/U6 x U5 tri-snRNP complex
+LSM6	U4/U6 x U5 tri-snRNP complex
+LSM7	U4/U6 x U5 tri-snRNP complex
+LSM8	U4/U6 x U5 tri-snRNP complex
+PRP18	U4/U6 x U5 tri-snRNP complex
+PRP3	U4/U6 x U5 tri-snRNP complex
+PRP31	U4/U6 x U5 tri-snRNP complex
+PRP38	U4/U6 x U5 tri-snRNP complex
+PRP4	U4/U6 x U5 tri-snRNP complex
+PRP6	U4/U6 x U5 tri-snRNP complex
+PRP8	U4/U6 x U5 tri-snRNP complex
+SMB1	U4/U6 x U5 tri-snRNP complex
+SMD1	U4/U6 x U5 tri-snRNP complex
+SMD2	U4/U6 x U5 tri-snRNP complex
+SMD3	U4/U6 x U5 tri-snRNP complex
+SME1	U4/U6 x U5 tri-snRNP complex
+SMX2	U4/U6 x U5 tri-snRNP complex
+SMX3	U4/U6 x U5 tri-snRNP complex
+SNU114	U4/U6 x U5 tri-snRNP complex
+SNU13	U4/U6 x U5 tri-snRNP complex
+SNU23	U4/U6 x U5 tri-snRNP complex
+SNU66	U4/U6 x U5 tri-snRNP complex
+SPP381	U4/U6 x U5 tri-snRNP complex
+MGR1	i-AAA complex
+YME1	i-AAA complex
+MSH2	MSH2p/MSH3p complex
+MSH3	MSH2p/MSH3p complex
+CDC14	RENT complex
+NET1	RENT complex
+SIR2	RENT complex
+ARG3	Car1p/Arg3p complex
+CAR1	Car1p/Arg3p complex
+NSP1	Nsp1p/Nup82p complex
+NUP82	Nsp1p/Nup82p complex
+ARG2	"Arg2p/Arg5,6p complex"
+"ARG5,6"	"Arg2p/Arg5,6p complex"
+SPT4	DSIF complex
+SPT5	DSIF complex
+FKS1	"1,3-beta-glucan synthase complex (Fks1p/Rho1p)"
+RHO1	"1,3-beta-glucan synthase complex (Fks1p/Rho1p)"
+RET1	DNA-directed RNA polymerase III complex
+RPB10	DNA-directed RNA polymerase III complex
+RPB5	DNA-directed RNA polymerase III complex
+RPB8	DNA-directed RNA polymerase III complex
+RPC10	DNA-directed RNA polymerase III complex
+RPC11	DNA-directed RNA polymerase III complex
+RPC17	DNA-directed RNA polymerase III complex
+RPC19	DNA-directed RNA polymerase III complex
+RPC25	DNA-directed RNA polymerase III complex
+RPC31	DNA-directed RNA polymerase III complex
+RPC34	DNA-directed RNA polymerase III complex
+RPC37	DNA-directed RNA polymerase III complex
+RPC40	DNA-directed RNA polymerase III complex
+RPC53	DNA-directed RNA polymerase III complex
+RPC82	DNA-directed RNA polymerase III complex
+RPO26	DNA-directed RNA polymerase III complex
+RPO31	DNA-directed RNA polymerase III complex
+POB3	FACT complex
+SPT16	FACT complex
+MKT1	Mtk1p/Pbp1p complex
+PBP1	Mtk1p/Pbp1p complex
+PFK1	6-phosphofructokinase complex
+PFK2	6-phosphofructokinase complex
+CTF18	DNA replication factor C complex (Ctf18p/Ctf8p/dcc1p)
+CTF8	DNA replication factor C complex (Ctf18p/Ctf8p/dcc1p)
+DCC1	DNA replication factor C complex (Ctf18p/Ctf8p/dcc1p)
+RFC2	DNA replication factor C complex (Ctf18p/Ctf8p/dcc1p)
+RFC3	DNA replication factor C complex (Ctf18p/Ctf8p/dcc1p)
+RFC4	DNA replication factor C complex (Ctf18p/Ctf8p/dcc1p)
+RFC5	DNA replication factor C complex (Ctf18p/Ctf8p/dcc1p)
+KRE29	smc5p-Smc6p complex
+MMS21	smc5p-Smc6p complex
+NSE1	smc5p-Smc6p complex
+NSE3	smc5p-Smc6p complex
+NSE4	smc5p-Smc6p complex
+NSE5	smc5p-Smc6p complex
+SMC5	smc5p-Smc6p complex
+SMC6	smc5p-Smc6p complex
+CHZ1	Chz1p/Htz1p/Htb1p complex
+HTB1	Chz1p/Htz1p/Htb1p complex
+HTZ1	Chz1p/Htz1p/Htb1p complex
+BDP1	transcription factor TFIIIB complex
+BRF1	transcription factor TFIIIB complex
+SPT15	transcription factor TFIIIB complex
+DBP6	Npa2p-containing subcomplex
+NOP8	Npa2p-containing subcomplex
+RSA3	Npa2p-containing subcomplex
+URB1	Npa2p-containing subcomplex
+URB2	Npa2p-containing subcomplex
+COB	"Cytochrome bc1 complex (Ubiquinol-cytochrome c reductase complex, complex III)"
+COR1	"Cytochrome bc1 complex (Ubiquinol-cytochrome c reductase complex, complex III)"
+CYT1	"Cytochrome bc1 complex (Ubiquinol-cytochrome c reductase complex, complex III)"
+QCR10	"Cytochrome bc1 complex (Ubiquinol-cytochrome c reductase complex, complex III)"
+QCR2	"Cytochrome bc1 complex (Ubiquinol-cytochrome c reductase complex, complex III)"
+QCR6	"Cytochrome bc1 complex (Ubiquinol-cytochrome c reductase complex, complex III)"
+QCR7	"Cytochrome bc1 complex (Ubiquinol-cytochrome c reductase complex, complex III)"
+QCR8	"Cytochrome bc1 complex (Ubiquinol-cytochrome c reductase complex, complex III)"
+QCR9	"Cytochrome bc1 complex (Ubiquinol-cytochrome c reductase complex, complex III)"
+RIP1	"Cytochrome bc1 complex (Ubiquinol-cytochrome c reductase complex, complex III)"
+SAP155	Sap155p/Sit4p complex
+SIT4	Sap155p/Sit4p complex
+GCD10	Gcd10p/Gcd14p complex
+GCD14	Gcd10p/Gcd14p complex
+SFB3	Sfb3p/Sec23p complex
+SEC23	Sfb3p/Sec23p complex
+MET10	sulfite reductase complex (NADPH)
+ECM17	sulfite reductase complex (NADPH)
+FUS3	STE5-MAPK complex
+STE11	STE5-MAPK complex
+STE5	STE5-MAPK complex
+STE7	STE5-MAPK complex
+FET3	Permease-Oxidase Complex
+FTR1	Permease-Oxidase Complex
+AFG3	m-AAA complex
+YTA12	m-AAA complex
+CTK1	carboxy-terminal domain protein kinase complex
+CTK2	carboxy-terminal domain protein kinase complex
+CTK3	carboxy-terminal domain protein kinase complex
+CDC28	Cdc28p/Clb6p complex
+CLB6	Cdc28p/Clb6p complex
+MNN9	"alpha-1,6-mannosyltransferase complex(Van1p/Mnn9p)"
+VAN1	"alpha-1,6-mannosyltransferase complex(Van1p/Mnn9p)"
+CDC7	Cdc7p/Dbf4p complex
+DBF4	Cdc7p/Dbf4p complex
+RNR1	ribonucleoside-diphosphate reductase complex
+RNR2	ribonucleoside-diphosphate reductase complex
+RNR4	ribonucleoside-diphosphate reductase complex
+GTR2	EGO complex
+MEH1	EGO complex
+SLM4	EGO complex
+SPC97	gamma-tubulin complex
+SPC98	gamma-tubulin complex
+TUB4	gamma-tubulin complex
+END3	"actin cytoskeleton-regulatory complex, Pan1p/Sla1p/End3p complex"
+PAN1	"actin cytoskeleton-regulatory complex, Pan1p/Sla1p/End3p complex"
+SLA1	"actin cytoskeleton-regulatory complex, Pan1p/Sla1p/End3p complex"
+GTB1	Rot2p/Gtb1p complex
+ROT2	Rot2p/Gtb1p complex
+SNO1	Sno1p/Snz1p complex
+SNZ1	Sno1p/Snz1p complex
+BNI4	Bni4p/Glc7p complex
+GLC7	Bni4p/Glc7p complex
+GYL1	Gyl1p/Gyp5p complex
+GYP5	Gyl1p/Gyp5p complex
+CAF130	CCR4-NOT core complex
+CAF40	CCR4-NOT core complex
+CCR4	CCR4-NOT core complex
+CDC36	CCR4-NOT core complex
+CDC39	CCR4-NOT core complex
+MOT2	CCR4-NOT core complex
+NOT3	CCR4-NOT core complex
+NOT5	CCR4-NOT core complex
+POP2	CCR4-NOT core complex
+VAM3	Vam3p/Vam7 vacuolar tSNARE complex
+VAM7	Vam3p/Vam7 vacuolar tSNARE complex
+GAA1	GPI-anchor transamidase complex
+GAB1	GPI-anchor transamidase complex
+GPI16	GPI-anchor transamidase complex
+GPI17	GPI-anchor transamidase complex
+GPI8	GPI-anchor transamidase complex
+IDH1	Isocitrate dehydrogenase
+IDH2	Isocitrate dehydrogenase
+FAS1	fatty acid synthase complex
+FAS2	fatty acid synthase complex
+CDC43	CAAX-protein geranylgeranyltransferase complex
+RAM2	CAAX-protein geranylgeranyltransferase complex
+MRE11	MRX complex
+RAD50	MRX complex
+XRS2	MRX complex
+CSM1	Csm1p/Lrs4p complex
+LRS4	Csm1p/Lrs4p complex
+RTT109	Rtt109p/Vps75p complex
+VPS75	Rtt109p/Vps75p complex
+BI3	Bi3 ribonucleoprotein complex
+MRS1	Bi3 ribonucleoprotein complex
+DPB11	Dpb11p/Sld2p complex
+SLD2	Dpb11p/Sld2p complex
+ASH1	Rpd3L complex
+CTI6	Rpd3L complex
+DEP1	Rpd3L complex
+PHO23	Rpd3L complex
+RPD3	Rpd3L complex
+RXT2	Rpd3L complex
+RXT3	Rpd3L complex
+SAP30	Rpd3L complex
+SDS3	Rpd3L complex
+SIN3	Rpd3L complex
+UME1	Rpd3L complex
+UME6	Rpd3L complex
+LEA1	U2 snRNP complex
+MSL1	U2 snRNP complex
+RSE1	U2 snRNP complex
+HSH155	U2 snRNP complex
+IST3	U2 snRNP complex
+HSH49	U2 snRNP complex
+PRP9	U2 snRNP complex
+PRP11	U2 snRNP complex
+PRP21	U2 snRNP complex
+CUS1	U2 snRNP complex
+CUS2	U2 snRNP complex
+SMB1	U2 snRNP complex
+SMD1	U2 snRNP complex
+SMD2	U2 snRNP complex
+SMD3	U2 snRNP complex
+SME1	U2 snRNP complex
+SMX2	U2 snRNP complex
+SMX3	U2 snRNP complex
+COX1	Cytochrome c oxidase (complex IV)
+COX12	Cytochrome c oxidase (complex IV)
+COX13	Cytochrome c oxidase (complex IV)
+COX2	Cytochrome c oxidase (complex IV)
+COX3	Cytochrome c oxidase (complex IV)
+COX4	Cytochrome c oxidase (complex IV)
+COX5A	Cytochrome c oxidase (complex IV)
+COX6	Cytochrome c oxidase (complex IV)
+COX7	Cytochrome c oxidase (complex IV)
+COX8	Cytochrome c oxidase (complex IV)
+COX9	Cytochrome c oxidase (complex IV)
+APL1	AP-2 adaptor complex
+APL3	AP-2 adaptor complex
+APM4	AP-2 adaptor complex
+APS2	AP-2 adaptor complex
+CDC73	Cdc73p/Paf1p complex
+CTR9	Cdc73p/Paf1p complex
+HPR1	Cdc73p/Paf1p complex
+LEO1	Cdc73p/Paf1p complex
+PAF1	Cdc73p/Paf1p complex
+RTF1	Cdc73p/Paf1p complex
+CCR4	Cdc73p/Paf1p complex
+AVO1	TORC 2 complex
+AVO2	TORC 2 complex
+BIT61	TORC 2 complex
+LST8	TORC 2 complex
+SLM1	TORC 2 complex
+SLM2	TORC 2 complex
+TOR2	TORC 2 complex
+TSC11	TORC 2 complex
+GCV1	glycine cleavage complex
+GCV2	glycine cleavage complex
+GCV3	glycine cleavage complex
+LPD1	glycine cleavage complex
+GCR1	GCR complex
+GCR2	GCR complex
+DSN1	MIND complex
+MTW1	MIND complex
+NNF1	MIND complex
+NSL1	MIND complex
+RFA1	DNA replication factor A complex
+RFA2	DNA replication factor A complex
+RFA3	DNA replication factor A complex
+MGE1	PAM complex
+PAM16	PAM complex
+PAM17	PAM complex
+PAM18	PAM complex
+SSC1	PAM complex
+TIM44	PAM complex
+ASK1	DASH complex
+DAD1	DASH complex
+DAD2	DASH complex
+DAD3	DASH complex
+DAD4	DASH complex
+DAM1	DASH complex
+DUO1	DASH complex
+HSK3	DASH complex
+SPC19	DASH complex
+SPC34	DASH complex
+RMD5	FBP degradation complex
+GID7	FBP degradation complex
+GID8	FBP degradation complex
+VID24	FBP degradation complex
+VID28	FBP degradation complex
+VID30	FBP degradation complex
+FYV10	FBP degradation complex
+YDL176W	FBP degradation complex
+RAD55	other DNA repair complexes
+RAD57	other DNA repair complexes
+REG1	Reg1p/Glc7p complex
+GLC7	Reg1p/Glc7p complex
+CPA1	carbamoyl-phosphate synthase complex
+CPA2	carbamoyl-phosphate synthase complex
+BUL2	Rsp5p/Bul2 ubiquitin ligase complex
+RSP5	Rsp5p/Bul2 ubiquitin ligase complex
+BI4	Bi4p/Nam2p complex
+NAM2	Bi4p/Nam2p complex
+DSS1	degradosome
+SUV3	degradosome
+BUD32	EKC/KEOPS protein complex
+CGI121	EKC/KEOPS protein complex
+GON7	EKC/KEOPS protein complex
+KAE1	EKC/KEOPS protein complex
+PCC1	EKC/KEOPS protein complex
+RPL10	cytoplasmic ribosomal large subunit
+RPL11A	cytoplasmic ribosomal large subunit
+RPL11B	cytoplasmic ribosomal large subunit
+RPL12A	cytoplasmic ribosomal large subunit
+RPL12B	cytoplasmic ribosomal large subunit
+RPL13A	cytoplasmic ribosomal large subunit
+RPL13B	cytoplasmic ribosomal large subunit
+RPL14A	cytoplasmic ribosomal large subunit
+RPL14B	cytoplasmic ribosomal large subunit
+RPL15A	cytoplasmic ribosomal large subunit
+RPL15B	cytoplasmic ribosomal large subunit
+RPL16A	cytoplasmic ribosomal large subunit
+RPL16B	cytoplasmic ribosomal large subunit
+RPL17A	cytoplasmic ribosomal large subunit
+RPL17B	cytoplasmic ribosomal large subunit
+RPL18A	cytoplasmic ribosomal large subunit
+RPL18B	cytoplasmic ribosomal large subunit
+RPL19A	cytoplasmic ribosomal large subunit
+RPL19B	cytoplasmic ribosomal large subunit
+RPL1A	cytoplasmic ribosomal large subunit
+RPL1B	cytoplasmic ribosomal large subunit
+RPL20A	cytoplasmic ribosomal large subunit
+RPL20B	cytoplasmic ribosomal large subunit
+RPL21A	cytoplasmic ribosomal large subunit
+RPL21B	cytoplasmic ribosomal large subunit
+RPL22A	cytoplasmic ribosomal large subunit
+RPL22B	cytoplasmic ribosomal large subunit
+RPL23A	cytoplasmic ribosomal large subunit
+RPL23B	cytoplasmic ribosomal large subunit
+RPL24A	cytoplasmic ribosomal large subunit
+RPL24B	cytoplasmic ribosomal large subunit
+RPL25	cytoplasmic ribosomal large subunit
+RPL26A	cytoplasmic ribosomal large subunit
+RPL26B	cytoplasmic ribosomal large subunit
+RPL27A	cytoplasmic ribosomal large subunit
+RPL27B	cytoplasmic ribosomal large subunit
+RPL28	cytoplasmic ribosomal large subunit
+RPL29	cytoplasmic ribosomal large subunit
+RPL2A	cytoplasmic ribosomal large subunit
+RPL2B	cytoplasmic ribosomal large subunit
+RPL3	cytoplasmic ribosomal large subunit
+RPL30	cytoplasmic ribosomal large subunit
+RPL31A	cytoplasmic ribosomal large subunit
+RPL31B	cytoplasmic ribosomal large subunit
+RPL32	cytoplasmic ribosomal large subunit
+RPL33A	cytoplasmic ribosomal large subunit
+RPL33B	cytoplasmic ribosomal large subunit
+RPL34A	cytoplasmic ribosomal large subunit
+RPL34B	cytoplasmic ribosomal large subunit
+RPL35A	cytoplasmic ribosomal large subunit
+RPL35B	cytoplasmic ribosomal large subunit
+RPL36A	cytoplasmic ribosomal large subunit
+RPL36B	cytoplasmic ribosomal large subunit
+RPL37A	cytoplasmic ribosomal large subunit
+RPL37B	cytoplasmic ribosomal large subunit
+RPL38	cytoplasmic ribosomal large subunit
+RPL39	cytoplasmic ribosomal large subunit
+RPL40A	cytoplasmic ribosomal large subunit
+RPL40B	cytoplasmic ribosomal large subunit
+RPL41A	cytoplasmic ribosomal large subunit
+RPL41B	cytoplasmic ribosomal large subunit
+RPL42A	cytoplasmic ribosomal large subunit
+RPL42B	cytoplasmic ribosomal large subunit
+RPL43A	cytoplasmic ribosomal large subunit
+RPL43B	cytoplasmic ribosomal large subunit
+RPL4A	cytoplasmic ribosomal large subunit
+RPL4B	cytoplasmic ribosomal large subunit
+RPL5	cytoplasmic ribosomal large subunit
+RPL6A	cytoplasmic ribosomal large subunit
+RPL6B	cytoplasmic ribosomal large subunit
+RPL7A	cytoplasmic ribosomal large subunit
+RPL7B	cytoplasmic ribosomal large subunit
+RPL8A	cytoplasmic ribosomal large subunit
+RPL8B	cytoplasmic ribosomal large subunit
+RPL9A	cytoplasmic ribosomal large subunit
+RPL9B	cytoplasmic ribosomal large subunit
+RPP0	cytoplasmic ribosomal large subunit
+RPP1A	cytoplasmic ribosomal large subunit
+RPP1B	cytoplasmic ribosomal large subunit
+RPP2A	cytoplasmic ribosomal large subunit
+RPP2B	cytoplasmic ribosomal large subunit
+GLE1	Nup82 nuclear pore subcomplex
+NUP159	Nup82 nuclear pore subcomplex
+NUP82	Nup82 nuclear pore subcomplex
+GAL83	Snf1p/Snf4p/Gal83p complex
+SNF1	Snf1p/Snf4p/Gal83p complex
+SNF4	Snf1p/Snf4p/Gal83p complex
+CYC8	Tup1p/Ssn6p complex
+TUP1	Tup1p/Ssn6p complex
+CUL3	Cul3p-RING ubiquitin ligase complex
+ELA1	Cul3p-RING ubiquitin ligase complex
+ELC1	Cul3p-RING ubiquitin ligase complex
+RAD16	Cul3p-RING ubiquitin ligase complex
+RAD7	Cul3p-RING ubiquitin ligase complex
+CCL1	transcription factor TFIIH complex
+KIN28	transcription factor TFIIH complex
+TFB3	transcription factor TFIIH complex
+RAD3	transcription factor TFIIH complex
+SSL1	transcription factor TFIIH complex
+SSL2	transcription factor TFIIH complex
+TFB1	transcription factor TFIIH complex
+TFB2	transcription factor TFIIH complex
+TFB4	transcription factor TFIIH complex
+TFB5	transcription factor TFIIH complex
+GRH1	Grh1p/Bug1p complex
+BUG1	Grh1p/Bug1p complex
+NOC2	Noc2p/Noc3p complex
+NOC3	Noc2p/Noc3p complex
+ATG12	Apg12p/Apg5p/Apg16 multimeric complex
+ATG16	Apg12p/Apg5p/Apg16 multimeric complex
+ATG5	Apg12p/Apg5p/Apg16 multimeric complex
+LCB1	serine C-palmitoyltransferase complex
+LCB2	serine C-palmitoyltransferase complex
+SPT15	transcription factor TFIID complex
+TAF1	transcription factor TFIID complex
+TAF10	transcription factor TFIID complex
+TAF11	transcription factor TFIID complex
+TAF12	transcription factor TFIID complex
+TAF13	transcription factor TFIID complex
+TAF14	transcription factor TFIID complex
+TAF2	transcription factor TFIID complex
+TAF3	transcription factor TFIID complex
+TAF4	transcription factor TFIID complex
+TAF5	transcription factor TFIID complex
+TAF6	transcription factor TFIID complex
+TAF7	transcription factor TFIID complex
+TAF8	transcription factor TFIID complex
+TAF9	transcription factor TFIID complex
+NUF2	Ndc80p complex
+SPC24	Ndc80p complex
+SPC25	Ndc80p complex
+TID3	Ndc80p complex
+HYM1	Hym1p/Kic1p/Sog2p complex
+KIC1	Hym1p/Kic1p/Sog2p complex
+SOG2	Hym1p/Kic1p/Sog2p complex
+MAK21	Noc1p/Noc2p complex
+NOC2	Noc1p/Noc2p complex
+TRM8	tRNA Methyltransferase Complex
+TRM82	tRNA Methyltransferase Complex
+POL5	UTP A complex
+NAN1	UTP A complex
+UTP4	UTP A complex
+UTP8	UTP A complex
+UTP9	UTP A complex
+UTP10	UTP A complex
+UTP15	UTP A complex
+REV1	Polzeta-Rev1p complex
+REV3	Polzeta-Rev1p complex
+REV7	Polzeta-Rev1p complex
+IRR1	nuclear cohesin complex
+MCD1	nuclear cohesin complex
+REC8	nuclear cohesin complex
+SMC1	nuclear cohesin complex
+SMC3	nuclear cohesin complex
+CDC24	Cdc24p/Far1p/Gbetagamma protein complex
+FAR1	Cdc24p/Far1p/Gbetagamma protein complex
+STE18	Cdc24p/Far1p/Gbetagamma protein complex
+STE4	Cdc24p/Far1p/Gbetagamma protein complex
+MOB2	Mob2p/Cbk1p complex
+CBK1	Mob2p/Cbk1p complex
+CSG2	Csh1p/Csg2p complex
+CSH1	Csh1p/Csg2p complex
+MLH1	Mlh1p/Pms1p complex
+PMS1	Mlh1p/Pms1p complex
+NAF1	Shq1p/Naf1p complex
+SHQ1	Shq1p/Naf1p complex
+STE18	heterodimeric G-protein complex
+STE4	heterodimeric G-protein complex
+ARC1	methionyl glutamyl tRNA synthetase complex
+GUS1	methionyl glutamyl tRNA synthetase complex
+MES1	methionyl glutamyl tRNA synthetase complex
+SEC11	signal peptidase complex
+SPC1	signal peptidase complex
+SPC2	signal peptidase complex
+SPC3	signal peptidase complex
+SUI1	eIF1/eIF1A/40S complex
+TIF11	eIF1/eIF1A/40S complex
+CDC28	Cdc28p/Cln1p complex
+CLN1	Cdc28p/Cln1p complex
+CSL4	Nuclear exosome complex
+DIS3	Nuclear exosome complex
+LRP1	Nuclear exosome complex
+MTR3	Nuclear exosome complex
+RRP4	Nuclear exosome complex
+RRP40	Nuclear exosome complex
+RRP42	Nuclear exosome complex
+RRP43	Nuclear exosome complex
+RRP45	Nuclear exosome complex
+RRP46	Nuclear exosome complex
+RRP6	Nuclear exosome complex
+SKI6	Nuclear exosome complex
+MAD1	Mad1p/Mad2p complex
+MAD2	Mad1p/Mad2p complex
+NAM7	Nonsense-mediated mRNA decay pathway complex
+NMD2	Nonsense-mediated mRNA decay pathway complex
+UPF3	Nonsense-mediated mRNA decay pathway complex
+YSF3	SF3b complex
+CUS1	SF3b complex
+HSH155	SF3b complex
+HSH49	SF3b complex
+RDS3	SF3b complex
+RSE1	SF3b complex
+CBP1	Cbp1p/Pet309p complex
+PET309	Cbp1p/Pet309p complex
+ACT1	NuA4 histone acetyltransferase complex
+ARP4	NuA4 histone acetyltransferase complex
+EAF3	NuA4 histone acetyltransferase complex
+EAF5	NuA4 histone acetyltransferase complex
+EAF6	NuA4 histone acetyltransferase complex
+EAF7	NuA4 histone acetyltransferase complex
+EPL1	NuA4 histone acetyltransferase complex
+ESA1	NuA4 histone acetyltransferase complex
+SWC4	NuA4 histone acetyltransferase complex
+TRA1	NuA4 histone acetyltransferase complex
+EAF1	NuA4 histone acetyltransferase complex
+YAF9	NuA4 histone acetyltransferase complex
+YNG2	NuA4 histone acetyltransferase complex
+CKA1	protein kinase CK2 complex
+CKA2	protein kinase CK2 complex
+CKB1	protein kinase CK2 complex
+CKB2	protein kinase CK2 complex
+SAS2	SAS Complex
+SAS4	SAS Complex
+SAS5	SAS Complex
+BIR1	Sli15p/Bir1p complex
+SLI15	Sli15p/Bir1p complex
+COP1	COPI
+GLO3	COPI
+RET2	COPI
+RET3	COPI
+SEC21	COPI
+SEC26	COPI
+SEC27	COPI
+SEC28	COPI
+HOS2	Set3p complex
+HOS4	Set3p complex
+CPR1	Set3p complex
+HST1	Set3p complex
+SET3	Set3p complex
+SIF2	Set3p complex
+SNT1	Set3p complex
+RAD1	nucleotide-excision repair factor 1 complex
+RAD10	nucleotide-excision repair factor 1 complex
+RAD14	nucleotide-excision repair factor 1 complex
+CSM3	Tof1p/Mrc1p/Csm3p complex
+MRC1	Tof1p/Mrc1p/Csm3p complex
+TOF1	Tof1p/Mrc1p/Csm3p complex
+ACT1	Swr1p complex
+ARP4	Swr1p complex
+ARP6	Swr1p complex
+RVB1	Swr1p complex
+RVB2	Swr1p complex
+SWC3	Swr1p complex
+SWC4	Swr1p complex
+SWC5	Swr1p complex
+SWC7	Swr1p complex
+SWR1	Swr1p complex
+VPS71	Swr1p complex
+VPS72	Swr1p complex
+YAF9	Swr1p complex
+APC1	anaphase-promoting complex
+APC11	anaphase-promoting complex
+APC2	anaphase-promoting complex
+APC4	anaphase-promoting complex
+APC5	anaphase-promoting complex
+APC9	anaphase-promoting complex
+CDC16	anaphase-promoting complex
+CDC20	anaphase-promoting complex
+CDC23	anaphase-promoting complex
+CDC26	anaphase-promoting complex
+CDC27	anaphase-promoting complex
+CDH1	anaphase-promoting complex
+DOC1	anaphase-promoting complex
+MND2	anaphase-promoting complex
+SWM1	anaphase-promoting complex
+SDH1	Succinate dehydrogenase complex (complex II)
+SDH2	Succinate dehydrogenase complex (complex II)
+SDH3	Succinate dehydrogenase complex (complex II)
+SDH4	Succinate dehydrogenase complex (complex II)
+PHO80	Pho85p/Pho80p complex
+PHO85	Pho85p/Pho80p complex
+GPA1	heterotrimeric G-protein complex
+STE18	heterotrimeric G-protein complex
+STE4	heterotrimeric G-protein complex
+RRD1	Tap42p/Sit4p/Rrd1p complex
+SIT4	Tap42p/Sit4p/Rrd1p complex
+TAP42	Tap42p/Sit4p/Rrd1p complex
+CHC1	Clathrin
+CLC1	Clathrin
+REC102	meiotic recombination initiation complex
+REC104	meiotic recombination initiation complex
+SPO11	meiotic recombination initiation complex
+BUD14	Bud14p/Glc7p complex
+GLC7	Bud14p/Glc7p complex
+PCL10	Pho85p/Pcl10p complex
+PHO85	Pho85p/Pcl10p complex
+TFA1	transcription factor TFIIE complex
+TFA2	transcription factor TFIIE complex
+ANP1	"alpha-1,6-mannosyltransferase complex(Anp1p/Mnn9p)"
+HOC1	"alpha-1,6-mannosyltransferase complex(Anp1p/Mnn9p)"
+MNN10	"alpha-1,6-mannosyltransferase complex(Anp1p/Mnn9p)"
+MNN11	"alpha-1,6-mannosyltransferase complex(Anp1p/Mnn9p)"
+MNN9	"alpha-1,6-mannosyltransferase complex(Anp1p/Mnn9p)"
+RAM1	protein farnesyltransferase complex
+RAM2	protein farnesyltransferase complex
+NSP1	Nsp1p complex
+NIC96	Nsp1p complex
+NUP49	Nsp1p complex
+NUP57	Nsp1p complex
+EAF3	Rpd3S complex
+RCO1	Rpd3S complex
+RPD3	Rpd3S complex
+SIN3	Rpd3S complex
+UME1	Rpd3S complex
+REV3	zeta DNA polymerase complex
+REV7	zeta DNA polymerase complex
+MCM5	Mcm2-7 complex
+MCM7	Mcm2-7 complex
+MCM4	Mcm2-7 complex
+MCM2	Mcm2-7 complex
+MCM3	Mcm2-7 complex
+MCM6	Mcm2-7 complex
+GTR1	GSE Complex
+GTR2	GSE Complex
+LTV1	GSE Complex
+MEH1	GSE Complex
+SLM4	GSE Complex
+CDC28	Cdc28p/Clb3p complex
+CLB3	Cdc28p/Clb3p complex
+CSL4	Cytoplasmic exosome complex
+DIS3	Cytoplasmic exosome complex
+MTR3	Cytoplasmic exosome complex
+RRP4	Cytoplasmic exosome complex
+RRP40	Cytoplasmic exosome complex
+RRP42	Cytoplasmic exosome complex
+RRP43	Cytoplasmic exosome complex
+RRP45	Cytoplasmic exosome complex
+RRP46	Cytoplasmic exosome complex
+SKI6	Cytoplasmic exosome complex
+ARP7	RSC complex
+ARP9	RSC complex
+HTL1	RSC complex
+LDB7	RSC complex
+NPL6	RSC complex
+RSC1	RSC complex
+RSC2	RSC complex
+RSC3	RSC complex
+RSC30	RSC complex
+RSC4	RSC complex
+RSC58	RSC complex
+RSC6	RSC complex
+RSC8	RSC complex
+RSC9	RSC complex
+RTT102	RSC complex
+SFH1	RSC complex
+STH1	RSC complex
+RRP7	UTP C complex
+UTP22	UTP C complex
+CKA1	UTP C complex
+CKA2	UTP C complex
+CKB1	UTP C complex
+CKB2	UTP C complex
+DUG1	GSH degradosomal complex
+DUG2	GSH degradosomal complex
+DUG3	GSH degradosomal complex
+RAI1	RNA Degradation Complex
+RAT1	RNA Degradation Complex
+RTT103	RNA Degradation Complex
+CDC48	Cdc48p complex
+UFD1	Cdc48p complex
+NPL4	Cdc48p complex
+CDC28	Cdc28p/Cln3p complex
+CLN3	Cdc28p/Cln3p complex
+AOS1	Uba2p/Aos1p complex
+UBA2	Uba2p/Aos1p complex
+CEG1	mRNA guanylyl transferase (capping complex)
+CET1	mRNA guanylyl transferase (capping complex)
+PPH21	protein phosphatase type 2A complex (Rts1p)
+RTS1	protein phosphatase type 2A complex (Rts1p)
+TPD3	protein phosphatase type 2A complex (Rts1p)
+RAD23	nucleotide-excision repair factor 2 complex
+RAD4	nucleotide-excision repair factor 2 complex
+COX1	Cox14p/Cox1p/Mss51p complex
+COX14	Cox14p/Cox1p/Mss51p complex
+MSS51	Cox14p/Cox1p/Mss51p complex
+PEP3	CORVET complex
+PEP5	CORVET complex
+VPS3	CORVET complex
+VPS16	CORVET complex
+VPS33	CORVET complex
+VPS8	CORVET complex
+ATG20	Atg20p/Snx4p/Snx41p complex
+SNX4	Atg20p/Snx4p/Snx41p complex
+SNX41	Atg20p/Snx4p/Snx41p complex
+GCD11	multi-eIF complex
+NIP1	multi-eIF complex
+PRT1	multi-eIF complex
+SUI1	multi-eIF complex
+SUI2	multi-eIF complex
+SUI3	multi-eIF complex
+TIF34	multi-eIF complex
+TIF5	multi-eIF complex
+GIM3	prefoldin complex
+GIM4	prefoldin complex
+GIM5	prefoldin complex
+PAC10	prefoldin complex
+PFD1	prefoldin complex
+YKE2	prefoldin complex
+UBA3	Ula1p/Uba3p complex
+ULA1	Ula1p/Uba3p complex
+DEF1	Def1p/Rad26p complex
+RAD26	Def1p/Rad26p complex
+ADA2	SAGA complex
+CHD1	SAGA complex
+GCN5	SAGA complex
+HFI1	SAGA complex
+NGG1	SAGA complex
+SGF11	SAGA complex
+SGF29	SAGA complex
+SGF73	SAGA complex
+SPT20	SAGA complex
+SPT3	SAGA complex
+SPT7	SAGA complex
+SPT8	SAGA complex
+SUS1	SAGA complex
+TAF10	SAGA complex
+TAF12	SAGA complex
+TAF5	SAGA complex
+TAF6	SAGA complex
+TAF9	SAGA complex
+TRA1	SAGA complex
+UBP8	SAGA complex
+MMS4	Holliday junction resolvase complex
+MUS81	Holliday junction resolvase complex
+PRP19	Prp19-associated complex
+CEF1	Prp19-associated complex
+ISY1	Prp19-associated complex
+CLF1	Prp19-associated complex
+SYF1	Prp19-associated complex
+SYF2	Prp19-associated complex
+NTC20	Prp19-associated complex
+SNT309	Prp19-associated complex
+SUB2	transcription export complex
+TEX1	transcription export complex
+YRA1	transcription export complex
+GAL3	GAL3p/GAL80p complex
+GAL80	GAL3p/GAL80p complex
+IMP1	mitochondrial inner membrane peptidase complex
+IMP2	mitochondrial inner membrane peptidase complex
+SOM1	mitochondrial inner membrane peptidase complex
+CUP5	"H+-transporting ATPase, Golgi"
+PPA1	"H+-transporting ATPase, Golgi"
+STV1	"H+-transporting ATPase, Golgi"
+TFP1	"H+-transporting ATPase, Golgi"
+TFP3	"H+-transporting ATPase, Golgi"
+VMA10	"H+-transporting ATPase, Golgi"
+VMA13	"H+-transporting ATPase, Golgi"
+VMA2	"H+-transporting ATPase, Golgi"
+VMA4	"H+-transporting ATPase, Golgi"
+VMA5	"H+-transporting ATPase, Golgi"
+VMA6	"H+-transporting ATPase, Golgi"
+VMA7	"H+-transporting ATPase, Golgi"
+VMA8	"H+-transporting ATPase, Golgi"
+RAD2	nucleotide-excision repair factor 3 complex
+RAD3	nucleotide-excision repair factor 3 complex
+SSL1	nucleotide-excision repair factor 3 complex
+SSL2	nucleotide-excision repair factor 3 complex
+TFB1	nucleotide-excision repair factor 3 complex
+TFB2	nucleotide-excision repair factor 3 complex
+TFB4	nucleotide-excision repair factor 3 complex
+SWI4	SBF complex
+SWI6	SBF complex
+ARF1	Chs5p/Arf-1binding proteins (ChAPs)
+BCH1	Chs5p/Arf-1binding proteins (ChAPs)
+BCH2	Chs5p/Arf-1binding proteins (ChAPs)
+BUD7	Chs5p/Arf-1binding proteins (ChAPs)
+CHS5	Chs5p/Arf-1binding proteins (ChAPs)
+CHS6	Chs5p/Arf-1binding proteins (ChAPs)
+SSZ1	Ribosome-associated complex (RAC)
+ZUO1	Ribosome-associated complex (RAC)
+CDC28	Cdc28p/Clb4p complex
+CLB4	Cdc28p/Clb4p complex
+LGE1	Lge1p/Bre1p complex
+BRE1	Lge1p/Bre1p complex
+BRN1	nuclear condensin complex
+SMC2	nuclear condensin complex
+SMC4	nuclear condensin complex
+YCG1	nuclear condensin complex
+YCS4	nuclear condensin complex
+FAR10	Far3p/Far7p/Far8p/Far9p/Far10p/Far11p complex
+FAR11	Far3p/Far7p/Far8p/Far9p/Far10p/Far11p complex
+FAR3	Far3p/Far7p/Far8p/Far9p/Far10p/Far11p complex
+FAR7	Far3p/Far7p/Far8p/Far9p/Far10p/Far11p complex
+FAR8	Far3p/Far7p/Far8p/Far9p/Far10p/Far11p complex
+VPS64	Far3p/Far7p/Far8p/Far9p/Far10p/Far11p complex
+FAA1	Fatty Acid Import Complex
+FAA4	Fatty Acid Import Complex
+FAT1	Fatty Acid Import Complex
+PBI2	LMA1 complex
+TRX1	LMA1 complex
+OCA1	OCA complex
+OCA2	OCA complex
+SIW14	OCA complex
+YCR095C	OCA complex
+YHL029C	OCA complex
+YDR067C	OCA complex
+ISD11	Nfs1p/Isd11p complex
+NFS1	Nfs1p/Isd11p complex
+MLH1	Mlh1p/Mlh2p complex
+MLH2	Mlh1p/Mlh2p complex
+SUP35	translation release factor complex
+SUP45	translation release factor complex
+LAT1	mitochondrial pyruvate dehydrogenase complex
+LPD1	mitochondrial pyruvate dehydrogenase complex
+PDA1	mitochondrial pyruvate dehydrogenase complex
+PDB1	mitochondrial pyruvate dehydrogenase complex
+PDX1	mitochondrial pyruvate dehydrogenase complex
+PKP1	mitochondrial pyruvate dehydrogenase complex
+PTC5	mitochondrial pyruvate dehydrogenase complex
+BBP1	Mps2p/Bbp1p complex
+MPS2	Mps2p/Bbp1p complex
+NBP1	Mps2p/Bbp1p complex
+SAP185	Sap185p/Sit4p complex
+SIT4	Sap185p/Sit4p complex
+ADA2	SLIK (SAGA-like) complex
+CHD1	SLIK (SAGA-like) complex
+GCN5	SLIK (SAGA-like) complex
+HFI1	SLIK (SAGA-like) complex
+NGG1	SLIK (SAGA-like) complex
+RTG2	SLIK (SAGA-like) complex
+SGF73	SLIK (SAGA-like) complex
+SPT20	SLIK (SAGA-like) complex
+SPT3	SLIK (SAGA-like) complex
+SPT7	SLIK (SAGA-like) complex
+TAF10	SLIK (SAGA-like) complex
+TAF12	SLIK (SAGA-like) complex
+TAF5	SLIK (SAGA-like) complex
+TAF6	SLIK (SAGA-like) complex
+TAF9	SLIK (SAGA-like) complex
+TRA1	SLIK (SAGA-like) complex
+UBP8	SLIK (SAGA-like) complex
+CLP1	mRNA cleavage factor complex (CFI)
+HRP1	mRNA cleavage factor complex (CFI)
+PCF11	mRNA cleavage factor complex (CFI)
+RNA14	mRNA cleavage factor complex (CFI)
+RNA15	mRNA cleavage factor complex (CFI)
+CDC28	Cdc28p/Clb2p complex
+CLB2	Cdc28p/Clb2p complex
+PEX13	peroxin docking complex
+PEX14	peroxin docking complex
+PEX17	peroxin docking complex
+LSC1	Succinyl-CoA ligase
+LSC2	Succinyl-CoA ligase
+FET5	Fth1p/Fet5p complex
+FTH1	Fth1p/Fet5p complex
+MET28	Met4p/Met28p/Met32p complex
+MET32	Met4p/Met28p/Met32p complex
+MET4	Met4p/Met28p/Met32p complex
+MEX67	Mtr2p/Mex67p complex
+MTR2	Mtr2p/Mex67p complex
+IOC3	ISW1a complex
+ISW1	ISW1a complex
+TOA1	transcription factor TFIIA complex
+TOA2	transcription factor TFIIA complex
+MOT1	Mot1p complex
+SPT15	Mot1p complex
+ASC1	cytoplasmic ribosomal small subunit
+RPS0A	cytoplasmic ribosomal small subunit
+RPS0B	cytoplasmic ribosomal small subunit
+RPS10A	cytoplasmic ribosomal small subunit
+RPS10B	cytoplasmic ribosomal small subunit
+RPS11A	cytoplasmic ribosomal small subunit
+RPS11B	cytoplasmic ribosomal small subunit
+RPS12	cytoplasmic ribosomal small subunit
+RPS13	cytoplasmic ribosomal small subunit
+RPS14A	cytoplasmic ribosomal small subunit
+RPS14B	cytoplasmic ribosomal small subunit
+RPS15	cytoplasmic ribosomal small subunit
+RPS16A	cytoplasmic ribosomal small subunit
+RPS16B	cytoplasmic ribosomal small subunit
+RPS17A	cytoplasmic ribosomal small subunit
+RPS17B	cytoplasmic ribosomal small subunit
+RPS18A	cytoplasmic ribosomal small subunit
+RPS18B	cytoplasmic ribosomal small subunit
+RPS19A	cytoplasmic ribosomal small subunit
+RPS19B	cytoplasmic ribosomal small subunit
+RPS1A	cytoplasmic ribosomal small subunit
+RPS1B	cytoplasmic ribosomal small subunit
+RPS2	cytoplasmic ribosomal small subunit
+RPS20	cytoplasmic ribosomal small subunit
+RPS21A	cytoplasmic ribosomal small subunit
+RPS21B	cytoplasmic ribosomal small subunit
+RPS22A	cytoplasmic ribosomal small subunit
+RPS22B	cytoplasmic ribosomal small subunit
+RPS23A	cytoplasmic ribosomal small subunit
+RPS23B	cytoplasmic ribosomal small subunit
+RPS24A	cytoplasmic ribosomal small subunit
+RPS24B	cytoplasmic ribosomal small subunit
+RPS25A	cytoplasmic ribosomal small subunit
+RPS25B	cytoplasmic ribosomal small subunit
+RPS26A	cytoplasmic ribosomal small subunit
+RPS26B	cytoplasmic ribosomal small subunit
+RPS27A	cytoplasmic ribosomal small subunit
+RPS27B	cytoplasmic ribosomal small subunit
+RPS28A	cytoplasmic ribosomal small subunit
+RPS28B	cytoplasmic ribosomal small subunit
+RPS29A	cytoplasmic ribosomal small subunit
+RPS29B	cytoplasmic ribosomal small subunit
+RPS3	cytoplasmic ribosomal small subunit
+RPS30A	cytoplasmic ribosomal small subunit
+RPS30B	cytoplasmic ribosomal small subunit
+RPS31	cytoplasmic ribosomal small subunit
+RPS4A	cytoplasmic ribosomal small subunit
+RPS4B	cytoplasmic ribosomal small subunit
+RPS5	cytoplasmic ribosomal small subunit
+RPS6A	cytoplasmic ribosomal small subunit
+RPS6B	cytoplasmic ribosomal small subunit
+RPS7A	cytoplasmic ribosomal small subunit
+RPS7B	cytoplasmic ribosomal small subunit
+RPS8A	cytoplasmic ribosomal small subunit
+RPS8B	cytoplasmic ribosomal small subunit
+RPS9A	cytoplasmic ribosomal small subunit
+RPS9B	cytoplasmic ribosomal small subunit
+RTG1	Rtg1p/Rtg3p complex
+RTG3	Rtg1p/Rtg3p complex
+ERI1	glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex
+GPI1	glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex
+GPI15	glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex
+GPI19	glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex
+GPI2	glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex
+SPT14	glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex
+VPS15	phosphatidylinositol (PtdIns) 3-kinase complex (functions in CPY sorting)
+VPS30	phosphatidylinositol (PtdIns) 3-kinase complex (functions in CPY sorting)
+VPS34	phosphatidylinositol (PtdIns) 3-kinase complex (functions in CPY sorting)
+VPS38	phosphatidylinositol (PtdIns) 3-kinase complex (functions in CPY sorting)
+INO2	Ino2p/Ino4p basic helix-loop-helix heteromeric complex
+INO4	Ino2p/Ino4p basic helix-loop-helix heteromeric complex
+SBH1	Sec61p translocon complex
+SEC61	Sec61p translocon complex
+SSS1	Sec61p translocon complex
+BRE5	Ubp3p/Bre5p complex
+UBP3	Ubp3p/Bre5p complex
+PMT1	Protein O-mannosyltransferase(Pmt1p/Pmt2p)
+PMT2	Protein O-mannosyltransferase(Pmt1p/Pmt2p)
+DID4	ESCRT III complex
+SNF7	ESCRT III complex
+VPS20	ESCRT III complex
+VPS24	ESCRT III complex
+FZO1	Mgm1p/Ugo1p/Fzo1p complex
+MGM1	Mgm1p/Ugo1p/Fzo1p complex
+UGO1	Mgm1p/Ugo1p/Fzo1p complex
+ERV41	Erv41p/Erv46p complex
+ERV46	Erv41p/Erv46p complex
+IOC2	ISW1b complex
+IOC4	ISW1b complex
+ISW1	ISW1b complex
+PEP3	HOPS complex
+PEP5	HOPS complex
+VAM6	HOPS complex
+VPS16	HOPS complex
+VPS33	HOPS complex
+VPS41	HOPS complex
+GSC2	"1,3-beta-glucan synthase complex (Gsc2p/Smk1p)"
+SMK1	"1,3-beta-glucan synthase complex (Gsc2p/Smk1p)"
+FIG4	Fig4p/Vac14p complex
+VAC14	Fig4p/Vac14p complex
+SEM1	19/22S regulator
+ECM29	19/22S regulator
+UBP6	19/22S regulator
+NAS6	19/22S regulator
+RPN1	19/22S regulator
+RPN10	19/22S regulator
+RPN11	19/22S regulator
+RPN12	19/22S regulator
+RPN13	19/22S regulator
+RPN2	19/22S regulator
+RPN3	19/22S regulator
+RPN5	19/22S regulator
+RPN6	19/22S regulator
+RPN7	19/22S regulator
+RPN8	19/22S regulator
+RPN9	19/22S regulator
+RPT1	19/22S regulator
+RPT2	19/22S regulator
+RPT3	19/22S regulator
+RPT4	19/22S regulator
+RPT5	19/22S regulator
+RPT6	19/22S regulator
+CCS1	Sod1p/Ccs1p complex
+SOD1	Sod1p/Ccs1p complex
+SDS22	Sds22p/Glc7p complex
+GLC7	Sds22p/Glc7p complex
+CDC42	Cdc42p/Ste20p complex
+STE20	Cdc42p/Ste20p complex
+RMI1	RecQ helicase-Topo III complex
+SGS1	RecQ helicase-Topo III complex
+TOP3	RecQ helicase-Topo III complex
+PCL1	Pho85p/Pcl1p complex
+PHO85	Pho85p/Pcl1p complex
+SIP2	Snf1p/Snf4p/Sip2p complex
+SNF1	Snf1p/Snf4p/Sip2p complex
+SNF4	Snf1p/Snf4p/Sip2p complex
+BUD6	polarisome complex
+PEA2	polarisome complex
+SPA2	polarisome complex
+BET2	Geranylgeranyltransferase II (GGTase II)
+BET4	Geranylgeranyltransferase II (GGTase II)
+RRN10	RNA polymerase I upstream activating factor complex
+RRN5	RNA polymerase I upstream activating factor complex
+RRN9	RNA polymerase I upstream activating factor complex
+UAF30	RNA polymerase I upstream activating factor complex
+HHT1	RNA polymerase I upstream activating factor complex
+HHF1	RNA polymerase I upstream activating factor complex
+APL5	AP-3 adaptor complex
+APL6	AP-3 adaptor complex
+APM3	AP-3 adaptor complex
+APS3	AP-3 adaptor complex
+TOM20	mitochondrial outer membrane translocase complex
+TOM22	mitochondrial outer membrane translocase complex
+TOM40	mitochondrial outer membrane translocase complex
+TOM5	mitochondrial outer membrane translocase complex
+TOM6	mitochondrial outer membrane translocase complex
+TOM7	mitochondrial outer membrane translocase complex
+TOM70	mitochondrial outer membrane translocase complex
+BRE2	COMPASS complex
+SDC1	COMPASS complex
+SET1	COMPASS complex
+SHG1	COMPASS complex
+SPP1	COMPASS complex
+SWD1	COMPASS complex
+SWD2	COMPASS complex
+SWD3	COMPASS complex
+SRP101	signal recognition particle receptor complex
+SRP102	signal recognition particle receptor complex
+DIP2	UTP B complex
+PWP2	UTP B complex
+UTP6	UTP B complex
+UTP13	UTP B complex
+UTP18	UTP B complex
+UTP21	UTP B complex
+TRP2	anthranilate synthase complex
+TRP3	anthranilate synthase complex
+CTF3	Ctf3p protein complex
+MCM16	Ctf3p protein complex
+MCM22	Ctf3p protein complex
+HST1	Sum1p/Rfm1p/Hst1p complex
+RFM1	Sum1p/Rfm1p/Hst1p complex
+SUM1	Sum1p/Rfm1p/Hst1p complex
+SPP382	Ntr1p/Ntr2p/Prp43p complex
+NTR2	Ntr1p/Ntr2p/Prp43p complex
+PRP43	Ntr1p/Ntr2p/Prp43p complex
+IPI1	Rix1p complex
+IPI3	Rix1p complex
+RIX1	Rix1p complex
+RRN11	RNA polymerase I transcription factor complex
+RRN6	RNA polymerase I transcription factor complex
+RRN7	RNA polymerase I transcription factor complex
+TIM23	mitochondrial inner membrane presequence translocase complex
+PAM16	mitochondrial inner membrane presequence translocase complex
+PAM18	mitochondrial inner membrane presequence translocase complex
+TIM17	mitochondrial inner membrane presequence translocase complex
+TIM21	mitochondrial inner membrane presequence translocase complex
+TIM50	mitochondrial inner membrane presequence translocase complex
+SMB1	U1 snRNP complex
+SMD1	U1 snRNP complex
+SMD2	U1 snRNP complex
+SMD3	U1 snRNP complex
+SME1	U1 snRNP complex
+SMX2	U1 snRNP complex
+SMX3	U1 snRNP complex
+LUC7	U1 snRNP complex
+MUD1	U1 snRNP complex
+NAM8	U1 snRNP complex
+PRP39	U1 snRNP complex
+PRP40	U1 snRNP complex
+PRP42	U1 snRNP complex
+SNP1	U1 snRNP complex
+SNU56	U1 snRNP complex
+SNU71	U1 snRNP complex
+YHC1	U1 snRNP complex
+ARP1	dynactin complex
+ARP10	dynactin complex
+JNM1	dynactin complex
+NIP100	dynactin complex
+IPL1	Aurora B-INCENP protein kinase complex
+SLI15	Aurora B-INCENP protein kinase complex
+CSI1	signalosome complex
+CSN12	signalosome complex
+CSN9	signalosome complex
+PCI8	signalosome complex
+RRI1	signalosome complex
+RRI2	signalosome complex
+PNG1	Png1p/Rad23p complex
+RAD23	Png1p/Rad23p complex
+CBF2	CBF3 complex
+CEP3	CBF3 complex
+CTF13	CBF3 complex
+SKP1	CBF3 complex
+NVJ1	Swh1p/Nvj1p complex
+SWH1	Swh1p/Nvj1p complex
+HSC82	HMC Complex
+SRO9	HMC Complex
+SSA3	HMC Complex
+YDJ1	HMC Complex
+AIR1	TRAMP complex (Air1p)
+MTR4	TRAMP complex (Air1p)
+PAP2	TRAMP complex (Air1p)
+CMP2	calcineurin complex
+CNA1	calcineurin complex
+CNB1	calcineurin complex
+GAC1	Gac1p/Glc7p complex
+GLC7	Gac1p/Glc7p complex
+PCL2	Pho85p/Pcl2p complex
+PHO85	Pho85p/Pcl2p complex
+GCD1	eIF2B
+GCD2	eIF2B
+GCD6	eIF2B
+GCD7	eIF2B
+GCN3	eIF2B
+DOP1	Dop1p/Mon2p complex
+MON2	Dop1p/Mon2p complex
+MRP1	mitochondrial ribosomal small subunit
+MRP10	mitochondrial ribosomal small subunit
+MRP13	mitochondrial ribosomal small subunit
+MRP17	mitochondrial ribosomal small subunit
+MRP2	mitochondrial ribosomal small subunit
+MRP21	mitochondrial ribosomal small subunit
+MRP4	mitochondrial ribosomal small subunit
+MRP51	mitochondrial ribosomal small subunit
+MRPS16	mitochondrial ribosomal small subunit
+MRPS17	mitochondrial ribosomal small subunit
+MRPS18	mitochondrial ribosomal small subunit
+MRPS28	mitochondrial ribosomal small subunit
+MRPS35	mitochondrial ribosomal small subunit
+MRPS5	mitochondrial ribosomal small subunit
+MRPS8	mitochondrial ribosomal small subunit
+MRPS9	mitochondrial ribosomal small subunit
+NAM9	mitochondrial ribosomal small subunit
+PET123	mitochondrial ribosomal small subunit
+PPE1	mitochondrial ribosomal small subunit
+RSM10	mitochondrial ribosomal small subunit
+RSM18	mitochondrial ribosomal small subunit
+RSM19	mitochondrial ribosomal small subunit
+RSM22	mitochondrial ribosomal small subunit
+RSM23	mitochondrial ribosomal small subunit
+RSM24	mitochondrial ribosomal small subunit
+RSM25	mitochondrial ribosomal small subunit
+RSM26	mitochondrial ribosomal small subunit
+RSM27	mitochondrial ribosomal small subunit
+RSM7	mitochondrial ribosomal small subunit
+VAR1	mitochondrial ribosomal small subunit
+YMR31	mitochondrial ribosomal small subunit
+SWS2	mitochondrial ribosomal small subunit
+NEM1	Nem1p/Spo7p complex
+SPO7	Nem1p/Spo7p complex
+LRS4	monopolin complex
+MAM1	monopolin complex
+CSM1	monopolin complex
+HRR25	monopolin complex
+CKB2	CURI complex
+IFH1	CURI complex
+RRP7	CURI complex
+UTP22	CURI complex
+HRD3	luminal surveillance complex
+KAR2	luminal surveillance complex
+YOS9	luminal surveillance complex
+HRD1	ubiquitin ligase ERAD-M complex
+HRD3	ubiquitin ligase ERAD-M complex
+TAP42	Tap42p/Pph21p/Rrd2p complex
+PPH21	Tap42p/Pph21p/Rrd2p complex
+RRD2	Tap42p/Pph21p/Rrd2p complex
+DSL1	Dsl1p complex
+TIP20	Dsl1p complex
+SEC20	Dsl1p complex
+SEC39	Dsl1p complex
+USE1	Dsl1p complex
+UFE1	Dsl1p complex

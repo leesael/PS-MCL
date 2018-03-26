@@ -42,12 +42,9 @@ If each node label in input edge file is String, the program will generate filen
 
 ## Output
 The output will consist of following files.
-- "Data, MCL Mode, Coarsen Info, Thread Info".result 
-Contains running time, average Ncut, and other options.
-- "Data, MCL Mode, Coarsen Info, Thread Info".assign
-Each row represents 1) cluster number and 2) node index belongs to it.
-- "Data, MCL Mode, Coarsen Info, Thread Info".dist
-Each row represents 1) cluster size, 2) # of clusters having that size, 3) total number of nodes in the clusters with that size.
+- "Data, MCL Mode, Coarsen Info, Thread Info"**.result** : Contains running time, average Ncut, and other options.
+- "Data, MCL Mode, Coarsen Info, Thread Info"**.assign** : Each row represents 1) cluster number and 2) node index belongs to it.
+- "Data, MCL Mode, Coarsen Info, Thread Info"**.dist** : Each row represents 1) cluster size, 2) # of clusters having that size, 3) total number of nodes in the clusters with that size.
 
 
 

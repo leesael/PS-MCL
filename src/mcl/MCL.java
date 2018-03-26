@@ -222,9 +222,9 @@ public class MCL {
 				resultName += "_MCL_";
 			else {
 				if(coarsen_mode == COARSE_SC)
-					resultName += "_PS-MCL-" + bFactor + "_";
+					resultName += "_PS-MCL-";
 				else
-					resultName += "_MLR-MCL-" + bFactor + "_";
+					resultName += "_MLR-MCL-";
 			}
 				
 				
@@ -1065,7 +1065,7 @@ public class MCL {
 		
 		
 		if(args[0].equals("-measure")) {
-			if( args[10] != null && args[11] != null) {
+			if( args[1] != null && args[2] != null && args[3] !=null) {
 				ClusterMeasure cm;
 				double[] ret;
 				cm = new ClusterMeasure(args[1], args[2],args[3], true, Integer.MAX_VALUE, 0);					

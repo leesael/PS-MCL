@@ -158,9 +158,8 @@ public class ClusterMeasure {
 					this.oCluster.put(cnum, new HashSet<Integer>());
 				
 			}
-			catch (IOException e) {				
-				e.printStackTrace();
-				break;
+			catch (Exception e) {				
+				continue;
 			}
 			
 		}

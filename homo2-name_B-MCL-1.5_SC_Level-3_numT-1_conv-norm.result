@@ -1,2 +1,0 @@
-coarsen_mode	coarseLevel	b_Factor	mcl_mode	time	NCut	AVG_Ncut	ClusterNum	#ofThread	#ofIteration
-1	3	1.5	1	37.748	333.995108578666	0.6761034586612672	494	1	42	a

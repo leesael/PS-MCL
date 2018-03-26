@@ -1066,16 +1066,44 @@ public class MCL {
 		
 		if(args[0].equals("-measure")) {
 			if( args[1] != null && args[2] != null && args[3] !=null) {
+				boolean type=true;
+				try {
+					if(args[4].equals("-row")) 
+						type = true;				
+					else if(args[4].equals("-col"))
+						type = false;
+					else {
+						System.out.println("Please specify the type of reference cluster.");
+					}
+				}
+				catch (Exception e ) {
+					
+						System.out.println("Please specify the type of reference cluster.");
+						return;
+					
+				}
+				
+				int max=Integer.MAX_VALUE;
+				try {
+					max = Integer.parseInt(args[5]);
+				} catch (Exception e) {
+					
+				}
+				int min =0;
+				try {
+					min = Integer.parseInt(args[6]);
+				} catch (Exception e) {
+					
+				}
+				
 				ClusterMeasure cm;
-				double[] ret;
-				cm = new ClusterMeasure(args[1], args[2],args[3], true, Integer.MAX_VALUE, 0);					
-				ret = cm.measure();
-				System.out.println("Accuracy : " + ret[0]);
+				cm = new ClusterMeasure(args[1], args[2], args[3], type, max, min);									
+				System.out.println("Accuracy : " + cm.Accuracy());
 			}	
 		}
-		
+	}
 	
 
 	}
-}
+
 

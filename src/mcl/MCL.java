@@ -1020,6 +1020,7 @@ public class MCL {
 				numThread = Integer.parseInt(args[7]);
 			} catch (Exception e) {
 				System.out.println("Please set the number of thread");
+				return;
 			}
 			if (numThread < 1) {
 				System.out.println("# of Threads should be non-negative");
@@ -1030,7 +1031,8 @@ public class MCL {
 			try {
 				elipson = Double.parseDouble(args[8]);
 			} catch (Exception e) {
-				System.out.println("Please set the threshlod for stop MCL");
+				System.out.println("Please set threshlod to stop MCL");
+				return;
 			}
 			if (numThread < 0) {
 				System.out.println("Please set positive threshold");
@@ -1041,7 +1043,7 @@ public class MCL {
 			try {
 				seed = Integer.parseInt(args[9]);
 			} catch (Exception e) {
-				System.out.println("Please set the random seed number");
+				System.out.println("Using random seed");
 			}
 			
 			double skiprate=0.5;
@@ -1050,7 +1052,8 @@ public class MCL {
 				try {
 					skiprate = Double.parseDouble(args[10]);
 				} catch (Exception e) {
-					System.out.println("Please set the threshlod for stop MCL");
+					System.out.println("Using default skip rate = 0.5");
+					
 				}
 				if( skiprate <= 0 || skiprate >=1) {
 					System.out.println("Please set skip rate between 0 to 1 ");
@@ -1097,7 +1100,8 @@ public class MCL {
 				}
 				
 				ClusterMeasure cm;
-				cm = new ClusterMeasure(args[1], args[2], args[3], type, max, min);									
+				cm = new ClusterMeasure(args[1], args[2], args[3], type, max, min);
+				System.out.println();
 				System.out.println("Accuracy : " + cm.Accuracy());
 			}	
 		}

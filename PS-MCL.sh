@@ -3,7 +3,7 @@
 cd $(dirname $(readlink -f $0))
 
 #help message
-help()
+help() 
 {
     echo "PS-MCL - Parallel Shotgun Coarsening Markov Clustering"
     echo " "

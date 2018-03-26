@@ -969,98 +969,102 @@ public class MCL {
 	public static void main(String[] args) throws IOException,
 			InterruptedException, ExecutionException {
 
-	
-		String outputPath = args[1];
-		int coarseMode;
-		if (args[2].equals("-sc"))
-			coarseMode = COARSE_SC;
-		else if (args[2].equals("-hem"))
-			coarseMode = COARSE_HEM;
-		else {
-			System.out.println("Wrong coarsen scheme parameter");
-			return;
-		}
-
-		int coarseLevel = 0;
-		try {
-			coarseLevel = Integer.parseInt(args[3]);
-		} catch (Exception e) {
-			System.out.println("Please set the coarse level");
-		}
-		if (coarseLevel < 0) {
-			System.out.println("CoarseLevel should be non-negative");
-		}
-
-		double bFactor = 0;
-		try {
-			bFactor = Double.parseDouble(args[4]);
-		} catch (Exception e) {
-			System.out.println("Please set the balance factor");
-		}
-		if (bFactor < 0) {
-			System.out.println("BalanceFactor should be non-negative");
-		}
-
-		int mcl_mode;
-		if (args[5].equals("-reg"))
-			mcl_mode = MCL_REG;
-		else if (args[5].equals("-basic"))
-			mcl_mode = MCL_NAIVE;
-		else {
-			System.out.println("Wrong MCL_MODE paramter");
-			return;
-		}
-
-		int numThread = 1;
-		try {
-			numThread = Integer.parseInt(args[6]);
-		} catch (Exception e) {
-			System.out.println("Please set the number of thread");
-		}
-		if (numThread < 1) {
-			System.out.println("# of Threads should be non-negative");
-			return;
-		}
-		
-		double elipson=1;
-		try {
-			elipson = Double.parseDouble(args[7]);
-		} catch (Exception e) {
-			System.out.println("Please set the threshlod for stop MCL");
-		}
-		if (numThread < 0) {
-			System.out.println("Please set positive threshold");
-			return;
-		}
-		
-		int seed=-1;
-		try {
-			seed = Integer.parseInt(args[8]);
-		} catch (Exception e) {
-			System.out.println("Please set the random seed number");
-		}
-		
-		double skiprate=0.5;
-		if (coarseMode == COARSE_SC ) {
-			
-			try {
-				skiprate = Double.parseDouble(args[9]);
-			} catch (Exception e) {
-				System.out.println("Please set the threshlod for stop MCL");
+		if(args[0].equals("-mcl")) {
+			String outputPath = args[2];
+			int coarseMode;
+			if (args[3].equals("-sc"))
+				coarseMode = COARSE_SC;
+			else if (args[3].equals("-hem"))
+				coarseMode = COARSE_HEM;
+			else {
+				System.out.println("Wrong coarsen scheme parameter");
+				return;
 			}
-			if( skiprate <= 0 || skiprate >=1) {
-				System.out.println("Please set skip rate between 0 to 1 ");
+
+			int coarseLevel = 0;
+			try {
+				coarseLevel = Integer.parseInt(args[4]);
+			} catch (Exception e) {
+				System.out.println("Please set the coarse level");
+			}
+			if (coarseLevel < 0) {
+				System.out.println("CoarseLevel should be non-negative");
+			}
+
+			double bFactor = 0;
+			try {
+				bFactor = Double.parseDouble(args[5]);
+			} catch (Exception e) {
+				System.out.println("Please set the balance factor");
+			}
+			if (bFactor < 0) {
+				System.out.println("BalanceFactor should be non-negative");
+			}
+
+			int mcl_mode;
+			if (args[6].equals("-reg"))
+				mcl_mode = MCL_REG;
+			else if (args[6].equals("-basic"))
+				mcl_mode = MCL_NAIVE;
+			else {
+				System.out.println("Wrong MCL_MODE paramter");
+				return;
+			}
+
+			int numThread = 1;
+			try {
+				numThread = Integer.parseInt(args[7]);
+			} catch (Exception e) {
+				System.out.println("Please set the number of thread");
+			}
+			if (numThread < 1) {
+				System.out.println("# of Threads should be non-negative");
 				return;
 			}
 			
-		}		
+			double elipson=1;
+			try {
+				elipson = Double.parseDouble(args[8]);
+			} catch (Exception e) {
+				System.out.println("Please set the threshlod for stop MCL");
+			}
+			if (numThread < 0) {
+				System.out.println("Please set positive threshold");
+				return;
+			}
+			
+			int seed=-1;
+			try {
+				seed = Integer.parseInt(args[9]);
+			} catch (Exception e) {
+				System.out.println("Please set the random seed number");
+			}
+			
+			double skiprate=0.5;
+			if (coarseMode == COARSE_SC ) {
+				
+				try {
+					skiprate = Double.parseDouble(args[10]);
+				} catch (Exception e) {
+					System.out.println("Please set the threshlod for stop MCL");
+				}
+				if( skiprate <= 0 || skiprate >=1) {
+					System.out.println("Please set skip rate between 0 to 1 ");
+					return;
+				}
+				
+			}		
+			
+			MCL.run(args[1], outputPath, coarseMode,coarseLevel, bFactor, mcl_mode, numThread, elipson,seed, skiprate);
+			
+		}
 		
-		MCL.run(args[0], outputPath, coarseMode,coarseLevel, bFactor, mcl_mode, numThread, elipson,seed, skiprate);
-		if(args.length > 10) {
+		
+		if(args[0].equals("-measure")) {
 			if( args[10] != null && args[11] != null) {
 				ClusterMeasure cm;
 				double[] ret;
-				cm = new ClusterMeasure(initgraph, result, args[10],args[11], true, Integer.MAX_VALUE, 0);					
+				cm = new ClusterMeasure(args[1], args[2],args[3], true, Integer.MAX_VALUE, 0);					
 				ret = cm.measure();
 				System.out.println("Accuracy : " + ret[0]);
 			}	

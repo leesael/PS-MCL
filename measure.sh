@@ -7,16 +7,9 @@ help()
 {
     echo "PS-MCL - Parallel Shotgun Coarsening Markov Clustering"
     echo " "
-    echo "Usage: $0 [INPUT (Graph File)] [OutputPath] [CoarseMode] [Coarse Level] [Balance Factor] [MCL Mode] [Number of Thread] [epsilon] [rand_seed] [skip rate]"
-    echo "CoarseMode        : -sc or -hem"
-    echo "Coarse Level      : non-negative Integer"
-    echo "Balance Factor    : non-negative Double"
-    echo "MCL Mode          : -reg or -basic"
-    echo "Number of Thread  : positive Integer"
-	echo "epsilon			: run until the error is under epsilon"
-	echo "rand_seed			: random seed number"
-	echo "skip rate			: skip rate of nodes in shotgun coarsening"
-	echo "reference			: reference cluster file"
+    echo "Usage: $0 [cluster-node] [reference] [mapping file]"
+    echo "cluster-node		: *.assign file"
+    echo "reference			: reference cluster file"
 	echo "mapping file		: node numbering file"
 }
 
@@ -30,7 +23,7 @@ fi
 
 
 
-QUERY="java -jar bin/PS-MCL.jar"
+QUERY="java -jar bin/PS-MCL.jar -measure"
 for arg in "$@"; do 
     QUERY="$QUERY ${arg}"
 done

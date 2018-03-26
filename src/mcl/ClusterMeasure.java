@@ -16,17 +16,17 @@ import graph.Graph;
 public class ClusterMeasure {
 	HashMap<String, Integer> vmap;
 	HashMap<String, Integer> rvmap;
-	HashMap<Integer, HashSet<Integer>> cluster;
-	HashMap<String, HashSet<Integer>> reference;
+	HashMap<Integer, HashSet<Integer>> oCluster;
+	HashMap<String, HashSet<Integer>> rCluster;
 	
-	String fCluster;
+	String rPath;
 	String fMap;
+	String oPath;
 	int cmin=0;
 	int cmax=10;
-	public ClusterMeasure(Graph G, HashMap<Integer, HashSet<Integer>> cluster, String fCluster, String fMap, boolean type, int cmax, int cmin) throws IOException, InterruptedException, ExecutionException {
-		this.cluster = cluster;
-		this.fCluster = fCluster;
-		this.fCluster = fCluster;
+	public ClusterMeasure(String oPath, String rPath, String fMap, boolean type, int cmax, int cmin) throws IOException, InterruptedException, ExecutionException {
+		this.oPath = oPath;
+		this.rPath= rPath;
 		this.fMap = fMap;
 		this.cmax = cmax;
 		this.cmin = cmin;
@@ -34,17 +34,19 @@ public class ClusterMeasure {
 		
 		HashMap<Integer, HashSet<Integer>> scluster = new HashMap<>();
 		int i=0;
-		for(HashSet<Integer> c : this.cluster.values()) {
+		for(HashSet<Integer> c : this.oCluster.values()) {
 			if(c.size()>=cmin && c.size() <= cmax)
 				scluster.put(i++, c);
 		}
-		this.cluster = scluster;
+		this.oCluster = scluster;
 	} 
 	
 	public void interpCluster(boolean type) throws IOException,
 	InterruptedException, ExecutionException{
-		Path cPath = Paths.get(fCluster);
-		Path cMap = Paths.get(fMap);
+		Path rPath = Paths.get(this.rPath);		
+		Path oPath = Paths.get(this.oPath);
+		Path cMap = Paths.get(this.fMap);
+		
 		vmap = new HashMap<>();
 		BufferedReader in = new BufferedReader(new FileReader(cMap.toFile()));
 		String line = null;
@@ -72,8 +74,8 @@ public class ClusterMeasure {
 		}
 		while(line!=null);
 		if(type) {
-			in = new BufferedReader(new FileReader(cPath.toFile()));
-			reference = new HashMap<String, HashSet<Integer>>();
+			in = new BufferedReader(new FileReader(rPath.toFile()));
+			rCluster = new HashMap<String, HashSet<Integer>>();
 			rvmap = (HashMap<String, Integer>) vmap.clone();
 			do {
 				try {
@@ -92,7 +94,7 @@ public class ClusterMeasure {
 					}
 					// take reference cluster only if the size is bigger than 2
 					if(newCluster.size()>=3 && newCluster.size() <= cmax)
-						reference.put(Integer.toString(reference.size()), newCluster);
+						rCluster.put(Integer.toString(rCluster.size()), newCluster);
 				}
 				catch (IOException e) {
 
@@ -104,8 +106,8 @@ public class ClusterMeasure {
 	
 		}
 		else {
-			in = new BufferedReader(new FileReader(cPath.toFile()));
-			reference = new HashMap<String, HashSet<Integer>>();
+			in = new BufferedReader(new FileReader(rPath.toFile()));
+			rCluster = new HashMap<String, HashSet<Integer>>();
 			rvmap = (HashMap<String, Integer>) vmap.clone();
 			do {
 				try {
@@ -122,12 +124,12 @@ public class ClusterMeasure {
 					while(st.hasMoreTokens()) {
 						cname+=st.nextToken();
 					}
-					if(reference.containsKey(cname))
-						reference.get(cname).add(rvmap.get(v));
+					if(rCluster.containsKey(cname))
+						rCluster.get(cname).add(rvmap.get(v));
 					else {
 						HashSet<Integer> newCluster = new HashSet<>();
 						newCluster.add(rvmap.get(v));
-						reference.put(cname, newCluster);
+						rCluster.put(cname, newCluster);
 					}
 				}
 				catch (IOException e) {
@@ -138,26 +140,52 @@ public class ClusterMeasure {
 			}
 			while(line!=null);
 		}
+		in = new BufferedReader(new FileReader(oPath.toFile()));
+		this.oCluster = new HashMap<>();
+		do{
+			try {
+				line = in.readLine();
+				if (line == null) {
+					continue;
+				}
+				st = new StringTokenizer(line, " \t,");
+				int cnum = Integer.parseInt(st.nextToken());
+				int nnum = Integer.parseInt(st.nextToken());
+				
+				if(this.oCluster.containsKey(cnum))
+					this.oCluster.get(cnum).add(nnum);
+				else
+					this.oCluster.put(cnum, new HashSet<Integer>());
+				
+			}
+			catch (IOException e) {				
+				e.printStackTrace();
+				break;
+			}
+			
+		}
+		while(line!=null);
+		
 	}
 	
 	
 	public double[] measure(){
 
-		if (cluster.size()==0){
+		if (oCluster.size()==0){
 			return new double[]{0};
 		}
-		double[][] T=new double[reference.size()][cluster.size()];
+		double[][] T=new double[rCluster.size()][oCluster.size()];
 
 		
 		int i,j;
 		j=0;
-		for(HashSet<Integer> c : cluster.values()) {
+		for(HashSet<Integer> c : oCluster.values()) {
 			if(c.size()<4) {
 				j++;
 				continue;
 			}
 			i=0;
-			for(HashSet<Integer> r : reference.values()) {
+			for(HashSet<Integer> r : rCluster.values()) {
 				Set<Integer> intersection = new HashSet<Integer>(c);
 				intersection.retainAll(r);
 				if(intersection.size()>0)
@@ -171,10 +199,10 @@ public class ClusterMeasure {
 		double sn=0;
 		double rsize=0;
 		
-		for(i=0;i<reference.size();i++) {
+		for(i=0;i<rCluster.size();i++) {
 			sn+=Arrays.stream(T[i]).max().getAsDouble();			
 		}
-		for(HashSet<Integer> c : reference.values()) {
+		for(HashSet<Integer> c : rCluster.values()) {
 			rsize+=c.size();
 		}
 		sn/=rsize;
@@ -183,14 +211,14 @@ public class ClusterMeasure {
 		double csize=0;
 		
 		i=0;
-		for(HashSet<Integer> c:cluster.values()) {
+		for(HashSet<Integer> c:oCluster.values()) {
 			if(c.size()<3) {
 				i++;
 				continue;
 			}
 
 			double max=0;
-			for(j=0;j<reference.size();j++) {
+			for(j=0;j<rCluster.size();j++) {
 				if(max < T[j][i])
 					max=T[j][i];
 			}

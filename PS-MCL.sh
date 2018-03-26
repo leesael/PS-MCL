@@ -28,7 +28,7 @@ fi
 
 
 
-QUERY="java -jar bin/PS-MCL.jar"
+QUERY="java -jar bin/PS-MCL.jar -mcl"
 for arg in "$@"; do 
     QUERY="$QUERY ${arg}"
 done

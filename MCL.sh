@@ -12,7 +12,7 @@ help()
 	echo "rand_seed			: random seed number"
 }
 
-QUERY="java -jar bin/PS-MCL.jar $1 $2 -hem 0 0 -basic 1 $3"
+QUERY="java -jar bin/PS-MCL.jar -mcl $1 $2 -hem 0 0 -basic 1 $3 0"
 		
 echo $QUERY
 echo =====================

@@ -49,7 +49,7 @@ The output will consist of following files.
 
 
 ## Measurement
-# Command
+## Command
 - ./measure.sh [*.assign] [node mapping file] [reference file] [reference type] [max cluster size] [min cluster size]
 
 You can evaluate your clustering result with reference clusters.  Set [reference type] **-row** if each row of the reference file matches to one cluster(ex. dataset/reference/homo/allComplexes). If the each row consist of node name and cluster name, use **-col**(ex. dataset/reference/yeast/cyc2008). Set max and min cluster size to calculate accuracy of the output.

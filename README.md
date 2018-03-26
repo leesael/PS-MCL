@@ -49,7 +49,7 @@ The output will consist of following files.
 
 
 ## Measurement
-#Command
+# Command
 - ./measure.sh [*.assign] [node mapping file] [reference file] [reference type] [max cluster size] [min cluster size]
 
 You can evaluate your clustering result with reference clusters.  Set [reference type] **-row** if each row of the reference file matches to one cluster(ex. dataset/reference/homo/allComplexes). If the each row consist of node name and cluster name, use **-col**(ex. dataset/reference/yeast/cyc2008). Set max and min cluster size to calculate accuracy of the output.
@@ -60,7 +60,7 @@ Run **make demo** in the source folder. The MCL will start a demo run PS-MCL for
 
 ## Scripts for existing MCL based methods
 
-To use MCL, R-MCL, B-MCL, use provided scripts MCL, R-MCL(Multi-Level), and B-MCL(Multi-Level).
+To use MCL, MLR-MCL, use provided scripts MCL.sh, MLR-MCL.sh(Multi-Level)
 - MCL.sh : ./MCL [INPUT (Graph File Path)] [Output Directory] [epsilon] [seed]
 - MLR-MCL.sh : ./R-MCL [INPUT (Graph File Path)] [Output Directory] [Coarse Level] [Balance Factor] [epsilon] [seed]
 

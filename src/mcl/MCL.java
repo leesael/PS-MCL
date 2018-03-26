@@ -219,15 +219,19 @@ public class MCL {
 			resultName += "_D-MCL_";
 		else {
 			if (b_Factor == 0)
-				resultName += "_R-MCL_";
-			else
-				resultName += "_B-MCL-" + bFactor + "_";
+				resultName += "_MCL_";
+			else {
+				if(coarsen_mode == COARSE_SC)
+					resultName += "_PS-MCL-" + bFactor + "_";
+				else
+					resultName += "_MLR-MCL-" + bFactor + "_";
+			}
+				
+				
 		}
-		resultName += coarsen_mode == COARSE_SC ? "SC_" : "HEM_";
-		resultName += "Level-" + coarseLevel + "_";
-		resultName += "numT-" + num_thread;
-		resultName += "_conv-norm";
-
+		resultName += "CoarseLevel-" + coarseLevel + "_";
+		resultName += "numThread-" + num_thread;
+		
 		/* Prepare to write result */
 		BufferedWriter resultOfEachFile = new BufferedWriter(new FileWriter(
 				outputPath + "/" + resultName + ".result"));

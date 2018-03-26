@@ -1,0 +1,23 @@
+#!/bin/bash
+
+cd $(dirname $(readlink -f $0))
+
+#help message
+help()
+{
+    echo "R-MCL - Regularized Markov Clustering"
+    echo " "
+    echo "Usage: $0 [INPUT (Graph File)] [OutputPath] [Coarse Level] [epsilon] [rand_seed]"
+	echo "Coarse Level      : non-negative Integer"
+    echo "epsilon			: run until the error is under epsilon"
+	echo "rand_seed			: random seed number"
+}
+
+
+
+
+QUERY="java -jar bin/PS-MCL.jar $1 $2 -hem $3 0 -reg 1 $4"
+		
+echo $QUERY
+echo =====================
+$QUERY

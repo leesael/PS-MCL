@@ -20,7 +20,7 @@ To run PS-MCL, you need to do the followings:
 
 ## Command
 
-- ./PS-MCL [INPUT (Graph File Path)] [Output Directory] [CoarseMode] [Coarse Level] [Balance Factor] [MCL Mode] [Number of Thread] [epsilon] [rand_seed] [skip_rate]
+- ./PS-MCL.sh [INPUT (Graph Edge File Path)] [Output Directory] [CoarseMode] [Coarse Level] [Balance Factor] [MCL Mode] [Number of Thread] [epsilon] [rand_seed] [skip_rate]
 
 ### Arguments
 
@@ -37,15 +37,8 @@ You should provide following arguments.
 	(i) rand_seed	: random seed number
 	(i) skip_rate	: Float number from 0~1 when using "-sc" mode. 
 
-## Measurement
+If each node label in input edge file is String, the program will generate filename_**nodemap** and  filename_**edges**, which are nodelabel-integer node mappging file and integer-integer edge file, respectively.
 
-You can evaluate your clustering result with reference clusters. Each row of reference cluster matches to one cluster. For more example, check dataset/reference/human. This also requires node mapping file. 
-
-Command
-- ./PS-MCL [INPUT (Graph File Path)] [Output Directory] [CoarseMode] [Coarse Level] [Balance Factor] [MCL Mode] [Number of Thread] [epsilon] [rand_seed] [skip_rate] **[cluster file] [node map]**
-
-## Demo Run
-Run **make** in the source folder. The MCL will start a demo run PS-MCL for "dataset/biogrid/homo/homo2-name" with 3 coarsening step. 
 
 ## Output
 The output will consist of following files.
@@ -59,6 +52,15 @@ Each row represents 1) cluster size, 2) # of clusters having that size, 3) total
 
 
 
+## Measurement
+#Command
+- ./measure.sh [*.assign] [node mapping file] [reference file] [reference type] [max cluster size] [min cluster size]
+
+You can evaluate your clustering result with reference clusters.  Set [reference type] **-row** if each row of the reference file matches to one cluster(ex. dataset/reference/homo/allComplexes). If the each row consist of node name and cluster name, use **-col**(ex. dataset/reference/yeast/cyc2008). This also requires node mapping file. 
+
+
+## Demo Run
+Run **make demo** in the source folder. The MCL will start a demo run PS-MCL for "dataset/bionetworks/biogrid-homo/homo" with 3 coarsening step and 3 threads. 
 
 ## Scripts for existing MCL based methods
 

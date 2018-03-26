@@ -46,7 +46,6 @@ The output will consist of following files.
 Contains running time, average Ncut, and other options.
 - "Data, MCL Mode, Coarsen Info, Thread Info".assign
 Each row represents 1) cluster number and 2) node index belongs to it.
-
 - "Data, MCL Mode, Coarsen Info, Thread Info".dist
 Each row represents 1) cluster size, 2) # of clusters having that size, 3) total number of nodes in the clusters with that size.
 
@@ -56,7 +55,7 @@ Each row represents 1) cluster size, 2) # of clusters having that size, 3) total
 #Command
 - ./measure.sh [*.assign] [node mapping file] [reference file] [reference type] [max cluster size] [min cluster size]
 
-You can evaluate your clustering result with reference clusters.  Set [reference type] **-row** if each row of the reference file matches to one cluster(ex. dataset/reference/homo/allComplexes). If the each row consist of node name and cluster name, use **-col**(ex. dataset/reference/yeast/cyc2008). This also requires node mapping file. 
+You can evaluate your clustering result with reference clusters.  Set [reference type] **-row** if each row of the reference file matches to one cluster(ex. dataset/reference/homo/allComplexes). If the each row consist of node name and cluster name, use **-col**(ex. dataset/reference/yeast/cyc2008). Set max and min cluster size to calculate accuracy of the output.
 
 
 ## Demo Run
@@ -65,9 +64,9 @@ Run **make demo** in the source folder. The MCL will start a demo run PS-MCL for
 ## Scripts for existing MCL based methods
 
 To use MCL, R-MCL, B-MCL, use provided scripts MCL, R-MCL(Multi-Level), and B-MCL(Multi-Level).
-- MCL : ./MCL [INPUT (Graph File Path)] [Output Directory] [epsilon]
-- MLR-MCL : ./R-MCL [INPUT (Graph File Path)] [Output Directory] [Coarse Level] [epsilon]
-- Balanced-MCL : ./B-MCL [INPUT (Graph File Path)] [Output Directory] [Coarse Level] [Balance Factor] [epsilon]
+- MCL.sh : ./MCL [INPUT (Graph File Path)] [Output Directory] [epsilon] [seed]
+- MLR-MCL.sh : ./R-MCL [INPUT (Graph File Path)] [Output Directory] [Coarse Level] [Balance Factor] [epsilon] [seed]
+
 
 
 ## Rebuilding source codes

@@ -6,7 +6,7 @@ This also includes implementations for the original MCL, R-MCL and MLR-MCL.
 ## Paper 
 Please use the following citation for PS-MCL: 
 
-Lim, Y., Yu, I., Seo, D., Kang, U., & Sael, L. (2018). **Markov, PS-MCL: Parallel Shotgun Coarsened Networks, Clustering of Protein Interaction.** In TBC 2018.
+Lim, Y., Yu, I., Seo, D., Kang, U., & Sael, L. (2018). **PS-MCL: Parallel Shotgun Coarsened Networks, Clustering of Protein Interaction.** In TBC 2018.
 
 
 ## Prerequisites

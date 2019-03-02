@@ -1,4 +1,4 @@
-Copyright (c) 2018, Yongsub Lim, Injae Yoo, Sael Lee
+Copyright (c) 2018, Yongsub Lim, Injae Yoo, U Kang, Lee Sael
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
